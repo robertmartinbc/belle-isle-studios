@@ -1,1 +1,154 @@
 @import "bootstrap";
+
+body {
+  padding: 0;
+  margin: 0;
+  background: #000000 url(main-bg.jpg) no-repeat center top;
+  width: 100%;
+  display: table;
+  background-image: url(images/main-bg.jpg);
+  }
+
+
+a:link {
+  color: #EEC859;
+  text-decoration: none;
+  font-weight: normal;
+  font-family: Arial, Helvetica, sans-serif;
+}
+a:visited {
+  text-decoration: none;
+  font-weight: normal;
+  color: #EEC859;
+}
+a:hover {
+  text-decoration: none;
+  color: #E32604;
+}
+a:active {
+  text-decoration: none;
+}
+a {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+@charset "utf-8";
+.belle {
+  background-color: #000000;
+}
+/* Global Styles */
+
+body {
+  padding: 0;
+  margin: 0;
+  background: #000000;
+  width: 100%;
+  display: table;
+}
+.redborder
+{
+  border-color: #EEC859;
+  border-width: 1px;
+  border-style: solid;
+}
+
+#padding {
+  padding:20px 5px 20px 5px;
+  }
+  
+#weekdays th {
+  font:12px arial;
+  color: #000000;
+  letter-spacing:0.2em;
+  }
+
+#calheader td {
+  font-weight:bold;
+  }
+
+/* Class Styles */
+
+.logo {
+  color: #000000;
+  letter-spacing:normal;
+  font-weight:normal;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  line-height: normal;
+  }
+
+.sidebarText {
+  color: #E32604;
+  line-height:normal;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  letter-spacing: normal;
+  }
+  
+.bodyText {
+  line-height:18px;
+  color:#EEC859;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  font-style: normal;
+  text-decoration: none;
+  font-weight: 300;
+  letter-spacing: normal;
+  
+  }
+  
+.pageName {
+  color: #EEC859;
+  letter-spacing:normal;
+  line-height:normal;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
+  font-style: italic;
+  font-weight: lighter;
+  font-variant: normal;
+  text-decoration: none;
+  }
+  
+.subHeader {
+  color: #EBC94E;
+  font-weight:normal;
+  letter-spacing:normal;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 60px;
+  font-style: italic;
+  font-variant: normal;
+  line-height: normal;
+  }
+  
+.navText {
+  color: #EEC859;
+  font-family: arial;
+  font-size: 13px;
+  font-weight: normal;
+  line-height: 1.5;
+  font-style: normal;
+  text-decoration: none;
+  }
+  
+.calendarText {
+  color:#E9C451;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  letter-spacing: normal;
+  font-weight: normal;
+  }
+  
+  
+.midText {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 17px;
+  font-weight: normal;
+  color: #EBC94E;
+  font-style: italic;
+  line-height: 18px;
+}
+
+
+
+

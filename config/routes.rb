@@ -21,5 +21,9 @@ BelleIsleStudios::Application.routes.draw do
 
   get "welcome/contact"
 
+  get "welcome/jade"
+  
+  get "welcome/dwb"
+
   root to: 'welcome#index'
 end

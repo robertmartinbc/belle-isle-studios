@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>BelleIsleStudios</title>
-  <%= stylesheet_link_tag    "application", :media => "all" %>
-  <%= javascript_include_tag "application" %>
+  <title>Belleislestudios</title>
+  <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+  <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
   <%= csrf_meta_tags %>
 </head>
 <body>
@@ -14,16 +14,30 @@
         <li><%= link_to "Studio", welcome_studio_path %></li>
         <li><%= link_to "Instruments", welcome_instruments_path %></li>
         <li><%= link_to "Gear", welcome_gear_path %></li>
-        <li><%= link_to "Artists", welcome_artists_path %></li>
-        <li><%= link_to "Musicians", welcome_musician_path %></li>
+        <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Artists<span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><%= link_to "Jade", welcome_jade_path %></li>              
+              <li><%= link_to "DWB", welcome_dwb_path %></li>
+            </ul>
+        </li>
+        <li><%= link_to "Musicians", welcome_musician_path %><li/>
         <li><%= link_to "Studio Mascots", welcome_mascots_path %></li>
         <li><%= link_to "Workshops", welcome_workshops_path %></li>
         <li><%= link_to "Retreat", welcome_retreat_path %></li>
         <li><%= link_to "Contact", welcome_contact_path %></li>
     </ul>
+    
 
-<%= yield %>
+    <%= yield %>
+    <div class="row">
+    <div class="span12">
+      <%= image_tag("btm.jpg") %>
+      <%= image_tag("bar1.jpg") %>
+    </div>
+    </div>
   </div>
-
+  <div>
+  <center><p>Copyright &copy; Belle Isle Studios</p></center>
+  </div>
 </body>
 </html>
