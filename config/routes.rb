@@ -25,5 +25,7 @@ BelleIsleStudios::Application.routes.draw do
   
   get "welcome/dwb"
 
+  get "welcome/valann"
+
   root to: 'welcome#index'
 end
