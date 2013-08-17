@@ -23,10 +23,10 @@
 </head>
 <body>
   <div class="container">
-    <div class="span11">
-    
+    <%= image_tag("main-bg.jpg") %>
+    <div class="row">
+    <div class="span12">
     <ul class="nav nav-tabs">
-      <%= image_tag("main-bg.jpg") %>
         <li><%= link_to "Home", root_path %></li>
         <li><%= link_to "Biography", welcome_biography_path %></li>
         <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Studio<span class="caret"></span></a>
@@ -42,6 +42,7 @@
               <li><%= link_to "Jade", welcome_jade_path %></li>              
               <li><%= link_to "DWB", welcome_dwb_path %></li>
               <li><%= link_to "Valann", welcome_valann_path %></li>
+              <li><%= link_to "Stephanie Greaves", welcome_stephanie_path %></li>
             </ul>
         </li>
         <li><%= link_to "Studio Mascots", welcome_mascots_path %></li>
@@ -52,8 +53,10 @@
 
     <%= yield %>
   </div>
+</div>
+</div>
     <div class="row">
-    <div class="span11">
+    <div class="span12">
       <%= image_tag("btm.jpg") %>
     </div>
     </div>
