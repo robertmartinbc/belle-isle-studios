@@ -1,4 +1,12 @@
 BelleIsleStudios::Application.routes.draw do
+
+
+  get "visitor/show"
+
+  get "visitor/index"
+
+  get "media_controller/show"
+
   get "welcome/index"
 
   get "welcome/biography"
