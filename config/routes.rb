@@ -1,41 +1,35 @@
 BelleIsleStudios::Application.routes.draw do
 
 
-  get "visitor/show"
+  resources :visitors
 
-  get "visitor/index"
+  match "biography" => 'welcome#biography', via: :get
 
-  get "media_controller/show"
+  match "studio" => 'welcome#studio', via: :get
 
-  get "welcome/index"
+  match "instruments" => 'welcome#instruments', via: :get
 
-  get "welcome/biography"
+  match "gear" => "welcome#gear", via: :get
 
-  get "welcome/studio"
+  match "artists" => "welcome#artists", via: :get
 
-  get "welcome/instruments"
+  match "musician" => "welcome#musician", via: :get
 
-  get "welcome/gear"
+  match "mascots" => "welcome#mascots", via: :get
 
-  get "welcome/artists"
+  match "workshops" => "welcome#workshops", via: :get
 
-  get "welcome/musician"
+  match "retreat" => "welcome#retreat", via: :get
 
-  get "welcome/mascots"
+  match "contact" => "welcome#contact", via: :get
 
-  get "welcome/workshops"
-
-  get "welcome/retreat"
-
-  get "welcome/contact"
-
-  get "welcome/jade"
+  match "jade" => "welcome#jade", via: :get
   
-  get "welcome/dwb"
+  match "dwb" => "welcome#dwb", via: :get
 
-  get "welcome/valann"
+  match "valann" => "welcome#valann", via: :get
 
-  get "welcome/stephanie"
+  match "stephanie" => 'welcome#stephanie', via: :get
 
-  root to: 'welcome#index'
+  root :to => 'welcome#index'
 end
