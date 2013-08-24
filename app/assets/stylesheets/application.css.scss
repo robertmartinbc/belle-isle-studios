@@ -74,98 +74,43 @@ body {
   padding:20px 5px 20px 5px;
   }
   
-#weekdays th {
-  font:12px arial;
-  color: #000000;
-  letter-spacing:0.2em;
-  }
 
-#calheader td {
-  font-weight:bold;
-  }
 
-/* Class Styles */
 
-.logo {
-  color: #000000;
-  letter-spacing:normal;
-  font-weight:normal;
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 13px;
-  line-height: normal;
-  }
 
-.sidebarText {
-  color: #E32604;
-  line-height:normal;
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 14px;
-  font-weight: normal;
-  letter-spacing: normal;
-  }
-  
-.bodyText {
-  line-height:18px;
-  color:#EEC859;
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 14px;
-  font-style: normal;
-  text-decoration: none;
-  font-weight: 300;
-  letter-spacing: normal;
-  
-  }
-  
-.pageName {
-  color: #EEC859;
-  letter-spacing:normal;
-  line-height:normal;
-  font-family: "Times New Roman", Times, serif;
-  font-size: 18px;
-  font-style: italic;
-  font-weight: lighter;
-  font-variant: normal;
-  text-decoration: none;
-  }
-  
-.subHeader {
-  color: #EBC94E;
-  font-weight:normal;
-  letter-spacing:normal;
-  font-family: "Times New Roman", Times, serif;
-  font-size: 60px;
-  font-style: italic;
-  font-variant: normal;
-  line-height: normal;
-  }
-  
-.navText {
-  color: #EEC859;
-  font-family: arial;
-  font-size: 13px;
-  font-weight: normal;
-  line-height: 1.5;
-  font-style: normal;
-  text-decoration: none;
-  }
-  
-.calendarText {
-  color:#E9C451;
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 14px;
-  letter-spacing: normal;
-  font-weight: normal;
-  }
-  
-  
-.midText {
-  font-family: "Times New Roman", Times, serif;
-  font-size: 17px;
-  font-weight: normal;
-  color: #EBC94E;
-  font-style: italic;
-  line-height: 18px;
+.audiojs .scrubber {
+    background: none repeat scroll 0 0 #5A5A5A;
+    border-bottom: 0 none;
+    border-left: 0 none;
+    border-top: 1px solid #3F3F3F;
+    float: left;
+    height: 14px;
+    margin: 10px;
+    overflow: hidden;
+    position: relative;
+    width: 80px; /* smaller width */
 }
+
+.audiojs .time {
+    border-left: 1px solid #000000;
+    color: #DDDDDD;
+    float: left;
+    height: 36px;
+    line-height: 36px;
+    margin: 0; /* no margin */
+    padding: 0 6px 0 9px; /* 2px smaller left padding */
+    text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.5);
+  
+    
+}
+
+.audiojs {
+    font-family: monospace;
+    font-size: 10px; /* reduced font size */
+    width: 230px;
+    height: 35px;
+}
+
 
 
 

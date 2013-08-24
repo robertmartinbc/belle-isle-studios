@@ -1,3 +1,12 @@
+<script src="/audiojs/audio.min.js"></script>
+
+<script>
+  audiojs.events.ready(function() {
+    var as = audiojs.createAll();
+  });
+</script>
+
+
 <br/>
  <div class="row">
   <div class="span12">
@@ -26,7 +35,7 @@
     
     <div>
       <p><%= image_tag("Jade_Name.jpg", class: "img-rounded") %></p>
-      <div class ="span4" class="panel-group" id="accordion">
+      <div class ="span5" class="panel-group" id="accordion">
         <div class="panel">
           <div class="panel-heading">
             <h4 class="panel-title">
@@ -49,7 +58,7 @@
 </div>
 <div class="span1">
   </div>
-  <div class ="span4" class="panel-group" id="accordion">
+  <div class ="span3" class="panel-group" id="accordion">
     <div class="panel-heading">
       <h4 class="panel-title">
         <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
@@ -59,71 +68,62 @@
     </div>
     <div id="collapseTwo" class="panel-collapse collapse in">
       <div class="panel-body">
-          <div class="thumbnail">
-          <strong>Kiss Me</strong>
-            <div class="pull-right">
-          <button type="button" class="btn btn-mini"><i class="icon-play pull-right"></i></button>
+
+          <div>
+            <strong>Kiss Me</strong>
+          <p><audio src="/music/01 Kiss Me.mp3" preload="auto" width="50" /></p>
         </div>
-        </div>
-        <div class="thumbnail">
+        
+
+        <div>
           <strong>Victim Of Love</strong>
-          <div class="pull-right">
-          <button type="button" class="btn btn-mini"><i class="icon-play pull-right"></i></button>
+         <p><audio src="/music/02 Victim Of Love.mp3" preload="auto" width="50" /></p>
         </div>
-        </div>
-         <div class="thumbnail">
+        
+
+         <div>
           <strong>Lay Me Down</strong>
-          <div class="pull-right">
-          <button type="button" class="btn btn-mini"><i class="icon-play pull-right"></i></button>
-        </div>
+          <p><audio src="/music/03 Lay Me Down.mp3" preload="auto" width="50" /></p>
           </div>
-           <div class="thumbnail">
+          
+
+           <div>
           <strong>Three Blind Mice</strong>
-          <div class="pull-right">
-          <button type="button" class="btn btn-mini"><i class="icon-play pull-right"></i></button>
+          <p><audio src="/music/04 Three Blind Mice.mp3" preload="auto" width="50" /></p>
         </div>
-          </div>
-           <div class="thumbnail">
+         
+           <div>
           <strong>Throw Me A Line</strong>
-          <div class="pull-right">
-          <button type="button" class="btn btn-mini"><i class="icon-play pull-right"></i></button>
-        </div>
+          <p><audio src="/music/05 Throw Me A Line.mp3" preload="auto" width="50" /></p>
           </div>
-           <div class="thumbnail">
+
+           <div>
           <strong>My Love Is Black</strong>
-          <div class="pull-right">
-          <button type="button" class="btn btn-mini"><i class="icon-play pull-right"></i></button>
-        </div>
+          <p><audio src="/music/06 My Love Is Black.mp3" preload="auto" width="50" /></p>
           </div>
-           <div class="thumbnail">
+
+           <div>
           <strong>If I catch My Breath</strong>
-          <div class="pull-right">
-          <button type="button" class="btn btn-mini"><i class="icon-play pull-right"></i></button>
-        </div>
+          <p><audio src="/music/07 If I catch My Breath.mp3" preload="auto" width="50" /></p>
           </div>
-           <div class="thumbnail">
+
+           <div>
           <strong>Butterfly</strong>
-          <div class="pull-right">
-          <button type="button" class="btn btn-mini"><i class="icon-play pull-right"></i></button>
-        </div>
+          <p><audio src="/music/08 Butterfly.mp3" preload="auto" width="50" /></p>
           </div>
-           <div class="thumbnail">
+
+           <div>
           <strong>Always</strong>
-          <div class="pull-right">
-          <button type="button" class="btn btn-mini"><i class="icon-play pull-right"></i></button>
-        </div>
+          <p><audio src="/music/09 Always.mp3" preload="auto" /></p>
           </div>
-           <div class="thumbnail">
+
+           <div>
           <strong>I Am Alive</strong>
-          <div class="pull-right">
-          <button type="button" class="btn btn-mini"><i class="icon-play pull-right"></i></button>
-        </div>
+          <p><audio src="/music/10 I Am Alive.mp3" preload="auto" width="50" /></p>
           </div>
-           <div class="thumbnail">
+           <div>
           <strong>Please Don't Touch Me</strong>
-          <div class="pull-right">
-          <button type="button" class="btn btn-mini"><i class="icon-play pull-right"></i></button>
-        </div>
+          <p><audio src="/music/11 Please Don't Touch Me.mp3" preload="auto" width="50" /></p>
           </div>
       </div>
     </div>

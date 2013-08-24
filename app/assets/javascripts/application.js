@@ -16,4 +16,4 @@
 //= require fancybox
 //= require_tree .
 
-
+$('.dropdown-toggle').dropdown()
