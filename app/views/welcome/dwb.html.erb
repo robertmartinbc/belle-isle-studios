@@ -1,3 +1,11 @@
+<script src="/audiojs/audio.min.js"></script>
+
+<script>
+  audiojs.events.ready(function() {
+    var as = audiojs.createAll();
+  });
+</script>
+
 <br/>
  <div class="row">
   <div class="span12">
@@ -7,14 +15,6 @@
             <div class="item active"><%= image_tag("2129957.jpg", class: "img-rounded") %></div>
             
           </div>
-
-          <script type="text/javascript">
-            $(document).ready(function() {
-              $('.carousel').carousel({
-                interval:4000
-              });
-            });
-          </script>
 
           <div>          
         </div>
@@ -48,7 +48,7 @@
   </div>
 </div>
 </div>
-  <div class ="span3" class="panel-group" id="accordion">
+<div class ="span3" class="panel-group" id="accordion">
     <div class="panel-heading">
       <h4 class="panel-title">
         <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
@@ -59,35 +59,32 @@
     <div id="collapseTwo" class="panel-collapse collapse in">
       <div class="panel-body">
         
-          <div class="thumbnail">
-          <strong>Baby Just Go</strong>
-            <div class="pull-right">
-          <button type="button" class="btn btn-mini"><i class="icon-play pull-right"></i></button>
+          <div>
+            <strong>Baby Just Go</strong>
+          <p><audio src="/music/Baby Just Go.mp3" preload="auto" width="50" /></p>
         </div>
-        </div>
-        <div class="thumbnail">
-          <strong>I Never Loved You At All</strong>
-          <div class="pull-right">
-          <button type="button" class="btn btn-mini"><i class="icon-play pull-right"></i></button>
-        </div>
-        </div>
-         <div class="thumbnail">
+        
+
+        <div>
           <strong>Throw Me A Line</strong>
-          <div class="pull-right">
-          <button type="button" class="btn btn-mini"><i class="icon-play pull-right"></i></button>
+         <p><audio src="/music/David Throw Me A Line.mp3" preload="auto" width="50" /></p>
         </div>
-          </div>
-           <div class="thumbnail">
-          <strong>Soldier's Lament</strong>
-            <div class="pull-right">
-          <button type="button" class="btn btn-mini"><i class="icon-play pull-right"></i></button>
-        </div>
-          </div>
-           <div class="thumbnail">
+        
+
+         <div>
           <strong>Intermission</strong>
-          <div class="pull-right">
-          <button type="button" class="btn btn-mini"><i class="icon-play pull-right"></i></button>
+          <p><audio src="/music/Intermission.mp3" preload="auto" width="50" /></p>
+          </div>
+          
+
+           <div>
+          <strong>Soldier's Lament</strong>
+          <p><audio src="/music/Soldier's Lament.mp3" preload="auto" width="50" /></p>
         </div>
+
+           <div>
+          <strong>I Never Loved You At All</strong>
+          <p><audio src="/music/I never Loved You At All.mp3" preload="auto" width="50" /></p>
           </div>
       </div>
     </div>
