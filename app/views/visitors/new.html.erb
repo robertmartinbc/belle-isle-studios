@@ -1,10 +1,14 @@
 <br>
+<br>
 <div class="row">
   <div class="span12">
     <div class="span1">
     </div>
     <div class="span4">
         <%= simple_form_for @visitor do |f| %>
+        <div>
+      <p>Please fill out the form below:</p>
+    </div>
       <div>
         <%= f.input :name, label: false, placeholder: 'Enter Name' %>
       </div>
@@ -16,10 +20,10 @@
             <%= f.input :tele, label: false, placeholder: 'Enter Telephone No' %>
           </div>
           <div>
-            <p><input type="text" id="datepicker" /><i class="icon-calendar icon-2x"></i></p>
+            <p><input type="text" id="datepicker" placeholder="Start Date"/><i class="icon-calendar icon-1x"></i></p>
           </div>
           <div>
-            <p><input type="text" id="datepicker" /><i class="icon-calendar icon-2x"></i></p>
+            <p><input type="text" id="datepicker1" placeholder="End Date"/><i class="icon-calendar icon-1x"></i></p>
           </div>
           <div>
             <%= f.input :enquiry, :input_html => { :rows => 2}, label: false, placeholder: 'Enter Enquiry' %>
@@ -41,6 +45,12 @@
       <div>
       <h3><i class="icon-envelope icon-2x"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; david@exbritmusic.com<h3>
       </div>
+      <div>
+        <br>
+      </div>
+      <div>
+        <%= image_tag("summer.jpg", class: "img-rounded") %>
+      </div>
     </div>
 
 
@@ -52,6 +62,14 @@
 <script>
   $(function() {
     $( "#datepicker" ).datepicker({
+      
+    });
+  });
+  </script>
+
+  <script>
+  $(function() {
+    $( "#datepicker1" ).datepicker({
       
     });
   });
