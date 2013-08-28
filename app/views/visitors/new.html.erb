@@ -1,3 +1,49 @@
+<br>
+<div class="row">
+  <div class="span12">
+    <div class="span1">
+    </div>
+    <div class="span4">
+        <%= simple_form_for @visitor do |f| %>
+      <div>
+        <%= f.input :name, label: false, placeholder: 'Enter Name' %>
+      </div>
+        <div>
+          <div>
+            <%= f.input :email, label: false, placeholder: 'Enter Email' %>
+          </div>
+          <div>
+            <%= f.input :tele, label: false, placeholder: 'Enter Telephone No' %>
+          </div>
+          <div>
+            <p><input type="text" id="datepicker" /><i class="icon-calendar icon-2x"></i></p>
+          </div>
+          <div>
+            <p><input type="text" id="datepicker" /><i class="icon-calendar icon-2x"></i></p>
+          </div>
+          <div>
+            <%= f.input :enquiry, :input_html => { :rows => 2}, label: false, placeholder: 'Enter Enquiry' %>
+          </div>
+          <div>
+            <%= f.button :submit %>
+          </div><div class="span5">
+          
+          <% end %>
+        </div>
+      </div>
+    </div>
+    <div class="span5">
+      <div>
+      </div>
+      <div>
+      <h3><i class="icon-phone icon-2x"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;250 888-2388</h3>
+      </div>
+      <div>
+      <h3><i class="icon-envelope icon-2x"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; david@exbritmusic.com<h3>
+      </div>
+    </div>
+
+
 <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
   <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
   <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
@@ -6,23 +52,10 @@
 <script>
   $(function() {
     $( "#datepicker" ).datepicker({
-      showOn: "button",
-      buttonImage: "images/calendar.gif",
-      buttonImageOnly: true
+      
     });
   });
   </script>
-</head>
-<body>
- 
-<p>Date: <input type="text" id="datepicker" /></p>
 
-<%= simple_form_for @visitor do |f| %>
-  <%= f.input :name %>
-  <%= f.input :email %>
-  <%= f.input :telephone %>
-  <%= f.input :start_date %>
-  <%= f.input :end_date %>
-  <%= f.input :enquiry, :input_html => { :class => "span4"} %>
-  <%= f.button :submit %>
-  <% end %>
+ 
+

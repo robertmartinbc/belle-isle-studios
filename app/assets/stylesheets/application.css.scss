@@ -33,6 +33,10 @@ ul > li {
   color: #EEC859;
 }
 
+h3 {
+  color: #EEC859;
+}
+
 p {
   color: #EEC859;
   font-family: "Arial", Helvetica, serif;
@@ -46,6 +50,8 @@ strong {
 }
 
 .footer {
+  position: relative;
+  bottom: 0px;
   color: #EEC859;
   font-family: "Arial", Helvetica, serif;
   font-size: 11px;
