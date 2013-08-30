@@ -29,6 +29,8 @@ BelleIsleStudios::Application.routes.draw do
 
   match "valann" => "welcome#valann", via: :get
 
+  match "belle_isle" => "welcome#belle_isle", via: :get
+
   match "stephanie" => 'welcome#stephanie', via: :get
 
   root :to => 'welcome#index'
