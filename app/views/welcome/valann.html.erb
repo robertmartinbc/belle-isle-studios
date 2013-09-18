@@ -1,13 +1,4 @@
-<script src="/audiojs/audio.min.js"></script>
-
-<script>
-  audiojs.events.ready(function() {
-    var as = audiojs.createAll();
-  });
-</script>
-
-<br/>
- <div class="row">
+<div class="row">
   <div class="span12">
     <div class="span2">
       <div id="myCarousel" class="carousel">
@@ -23,18 +14,18 @@
             });
           </script>
 
-          <div>          
+          <div>
         </div>
-      </div>      
+      </div>
     </div>
-    
+
     <div>
       <div class ="span6" class="panel-group" id="accordion">
         <div class="panel">
           <div class="panel-heading">
             <h4 class="panel-title">
-              <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">         
-              <h4><i class="icon-book icon-2x"></i> - Biography</h4>        
+              <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
+              <h4><i class="icon-book icon-2x"></i> - Biography</h4>
               </a>
             </h4>
            </div>
@@ -53,7 +44,7 @@
     <div class="panel-heading">
       <h4 class="panel-title">
         <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
-          <h4><i class="icon-bullseye icon-2x"></i> - Discography</h4> 
+          <h4><i class="icon-bullseye icon-2x"></i> - Discography</h4>
         </a>
       </h4>
     </div>
@@ -65,8 +56,17 @@
             <strong>So Softly You Leave</strong>
           <p><audio src="/music/So Softly You Leave.mp3" preload="auto" width="50" /></p>
         </div>
-            
+
       </div>
       </div>
     </div>
   </div>
+
+  <script src="/audiojs/audio.min.js"></script>
+
+<script>
+  audiojs.events.ready(function() {
+    var as = audiojs.createAll();
+  });
+</script>
+

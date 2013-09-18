@@ -13,6 +13,7 @@ class VisitorsController < ApplicationController
   def create
     @visitor = Visitor.new(params[:visitor])
     if @visitor.save
+      UserEmail.signup_notify(@visitor).deliver
       flash[:notice] = "Thank you for your enquiry. We will contact you shortly."
       redirect_to @visitor
     else

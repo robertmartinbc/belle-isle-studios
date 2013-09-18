@@ -1,32 +1,23 @@
-<script src="/audiojs/audio.min.js"></script>
-
-<script>
-  audiojs.events.ready(function() {
-    var as = audiojs.createAll();
-  });
-</script>
-
-<br/>
- <div class="row">
+<div class="row">
   <div class="span12">
     <div class="span2">
       <div id="myCarousel" class="carousel">
         <div class="carousel-inner">
             <div class="item active"><%= image_tag("2129957.jpg", class: "img-rounded") %></div>
-            
+
           </div>
 
-          <div>          
+          <div>
         </div>
-      </div>      
+      </div>
     </div>
     <div>
       <div class ="span6" class="panel-group" id="accordion">
         <div class="panel">
           <div class="panel-heading">
             <h4 class="panel-title">
-              <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">         
-              <h4><i class="icon-book icon-2x"></i> - Biography</h4>        
+              <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
+              <h4><i class="icon-book icon-2x"></i> - Biography</h4>
               </a>
             </h4>
            </div>
@@ -52,31 +43,31 @@
     <div class="panel-heading">
       <h4 class="panel-title">
         <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
-          <h4><i class="icon-bullseye icon-2x"></i> - Discography</h4> 
+          <h4><i class="icon-bullseye icon-2x"></i> - Discography</h4>
         </a>
       </h4>
     </div>
     <br>
     <div id="collapseTwo" class="panel-collapse collapse in">
       <div class="panel-body">
-        
+
           <div>
             <strong>Baby Just Go</strong>
           <p><audio src="/music/Baby Just Go.mp3" preload="auto" width="50" /></p>
         </div>
-        
+
 
         <div>
           <strong>Throw Me A Line</strong>
          <p><audio src="/music/Throw Me A Line.mp3" preload="auto" width="50" /></p>
         </div>
-        
+
 
          <div>
           <strong>Intermission</strong>
           <p><audio src="/music/Intermission.mp3" preload="auto" width="50" /></p>
           </div>
-          
+
 
            <div>
           <strong>Soldier's Lament</strong>
@@ -90,3 +81,10 @@
       </div>
     </div>
   </div>
+  <script src="/audiojs/audio.min.js"></script>
+
+<script>
+  audiojs.events.ready(function() {
+    var as = audiojs.createAll();
+  });
+</script>

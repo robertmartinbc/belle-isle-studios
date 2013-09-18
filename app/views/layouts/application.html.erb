@@ -26,8 +26,8 @@
 <body>
   <div class="container">
     <div class="row">
-       <%= image_tag("main-bg.jpg") %>
           <div class="span11">
+            <%= image_tag("main-bg.jpg") %>
             <ul class="nav nav-tabs">
               <li><%= link_to "Home", root_path %></li>
                 <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Studio<span class="caret"></span></a>
@@ -47,14 +47,14 @@
               <li><%= link_to "Valann", valann_path %></li>
             </ul>
         </li>
-        <li><%= link_to "Studio Mascots", mascots_path %></li>
+        <li><%= link_to "Mascots", mascots_path %></li>
         <li><%= link_to "Sanctuary", retreat_path %></li>
         <li><%= link_to "Contact", new_visitor_path %></li>
     </ul>
   </div>
 </div>
 <div class="row">
-  <div class="span12">
+  <div class="span11">
     <div class="span9">
     </div>
     <div class="span0">
@@ -69,22 +69,14 @@
   </div>
 </div>
 <br>
-
-
-
-
-    <%= yield %>
+<br>
+<%= yield %>
     <div class="row">
-    <div class="span12">
+    <div class="span11">
+      <br>
     <p class="footer">All music and lyrics intellectual property of David W. Bower &copy 2013 Belle Isle Studios</p>
     </div>
   </div>
   </div>
-
-
-
-
-
-
 </body>
 </html>

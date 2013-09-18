@@ -2,7 +2,31 @@
 <div class="row">
   <div class="span12">
   	<div class="span8">
-	<p>Thank you for your enquiry. We will aim to get back to you within 24 hours. In the meantime, why not check out the rest of our studio?</p>
+	<p>Hello <%= @visitor.name %>,</p>
+
+<p>Thank you for your enquiry. We are excited you have taken the time to consider our studio!</p>
+
+<p>Here is a summary of your enquiry:</P>
+
+<p>Name:&nbsp;&nbsp; <%= @visitor.name %></p>
+
+<p>Email:&nbsp;&nbsp; <%= @visitor.email %></p>
+
+<p>Telephone:&nbsp;&nbsp; <%= @visitor.tele %></p>
+
+<p>Start Date:&nbsp;&nbsp; <%= @visitor.start_date %></p>
+
+<p>End Date:&nbsp;&nbsp;<%= @visitor.end_date %></p>
+
+<p>Enquiry:&nbsp;&nbsp; <%= @visitor.enquiry %></p>
+
+
+
+<p>We will aim to get back to you within the next 24 hours, but please feel free to browse our studio in the meantime.
+
+<p>Sincerely,</p>
+
+<p>David W. Bower</p>
 </div>
 </div>
 </div>

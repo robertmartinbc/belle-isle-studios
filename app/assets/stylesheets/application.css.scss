@@ -36,7 +36,7 @@ ul > li {
 .thumbnail {
   border: 0 none;
   color: #EEC859;
-  
+
 }
 
 h4 {
@@ -56,13 +56,15 @@ p {
 }
 
 strong {
-  color: #EEC859; 
+  color: #EEC859;
 }
 
 .footer {
-  position: relative;
+  position: static;
   bottom: 0px;
+  width: 100%;
   color: #EEC859;
+  text-align: center;
   font-family: "Arial", Helvetica, serif;
   font-size: 11px;
 
@@ -106,7 +108,7 @@ body {
   margin: 0;
   background: #000000;
   width: 100%;
-  
+
 }
 .redborder
 {
@@ -118,7 +120,7 @@ body {
 #padding {
   padding: 20px 5px 20px 5px;
   }
-  
+
 .audiojs .scrubber {
     background: none repeat scroll 0 0 #5A5A5A;
     border-bottom: 0 none;
@@ -141,8 +143,8 @@ body {
     margin: 0; /* no margin */
     padding: 0 6px 0 9px; /* 2px smaller left padding */
     text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.5);
-  
-    
+
+
 }
 
 .audiojs {
@@ -151,8 +153,3 @@ body {
     width: 230px;
     height: 35px;
 }
-
-
-
-
-
