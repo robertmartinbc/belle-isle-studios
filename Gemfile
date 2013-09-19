@@ -24,7 +24,7 @@ gem 'jquery-rails'
 gem 'bootstrap-sass', '~> 2.3.1.0'
 gem 'fancybox2-rails', '~> 0.2.4'
 gem 'simple_form'
-gem 'figaro'
+gem 'figaro', '~> 0.7.0'
 
 
 # To use ActiveModel has_secure_password
