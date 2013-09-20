@@ -17,5 +17,3 @@
 //= require_tree .
 
 $('.dropdown-toggle').dropdown()
-
-$("input.date_picker").datepicker();
