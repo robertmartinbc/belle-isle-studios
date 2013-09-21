@@ -1,33 +1,48 @@
-<br>
 <div class="row">
   <div class="span12">
-  	<div class="span8">
-	<p>Hello <%= @visitor.name %>,</p>
+  	<div class="span1">
+    </div>
+  	<div class="span4">
+			<p>Hello <%= @visitor.name %>,</p>
 
-<p>Thank you for your enquiry. We are excited you have taken the time to consider our studio!</p>
+			<p>Here is a summary of your enquiry:</P>
+				<br>
+			<p>Name:&nbsp;&nbsp; <font color = "white"><%= @visitor.name %></font></p>
 
-<p>Here is a summary of your enquiry:</P>
+			<p>Email:&nbsp;&nbsp; <font color = "white"><%= @visitor.email %></font></p>
 
-<p>Name:&nbsp;&nbsp; <%= @visitor.name %></p>
+			<p>Telephone:&nbsp;&nbsp; <font color = "white"><%= @visitor.tele %></font></p>
 
-<p>Email:&nbsp;&nbsp; <%= @visitor.email %></p>
+			<p>Start Date:&nbsp;&nbsp; <font color = "white"><%= @visitor.start_date %></font></p>
 
-<p>Telephone:&nbsp;&nbsp; <%= @visitor.tele %></p>
+			<p>End Date:&nbsp;&nbsp; <font color = "white"><%= @visitor.end_date %></font></p>
 
-<p>Start Date:&nbsp;&nbsp; <%= @visitor.start_date %></p>
-
-<p>End Date:&nbsp;&nbsp;<%= @visitor.end_date %></p>
-
-<p>Enquiry:&nbsp;&nbsp; <%= @visitor.enquiry %></p>
-
-
-
-<p>We will aim to get back to you within the next 24 hours, but please feel free to browse our studio in the meantime.
-
-<p>Sincerely,</p>
-
-<p>David W. Bower</p>
-</div>
+			<p>Enquiry:&nbsp;&nbsp; <font color = "white"><%= @visitor.enquiry %></font></p>
+			<br>
+			<p>We will contact you shortly to discuss your requirements.</p>
+			<br>
+			<p>Sincerely,</p>
+			<br>
+			<p>David W. Bower</p>
+	</div>
+	<div class="span5">
+      <div>
+        <%= image_tag("winter.jpg", class: "img-rounded") %>
+      </div>
+      <div class="span5">
+      <div>
+        <br>
+      </div>
+      <div>
+      <h4><i class="icon-phone icon-2x"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;250 888-2388</h4>
+      </div>
+      <div>
+      <h4><i class="icon-envelope icon-2x"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; david@exbritmusic.com</h4>
+      </div>
+      <div>
+        <br>
+      </div>
+    </div>
 </div>
 </div>
 
