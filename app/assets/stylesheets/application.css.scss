@@ -21,6 +21,26 @@
   border-color: #EEC859;
 }
 
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+  color: black;
+  background-color: grey;
+  background-image: none;
+  filter: none;
+}
+
+.nav > li > a:hover {
+    color: black;
+}
+
+.nav-tabs > li > a:hover {
+    color: black;
+}
+
+.caret
+{
+border-top-color: #EEC859 !important;
+border-bottom-color: #EEC859 !important;
+}
 
 body {
   padding: 0;
