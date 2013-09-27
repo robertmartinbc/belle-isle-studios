@@ -5,7 +5,7 @@ BelleIsleStudios::Application.routes.draw do
 
   match "biography" => 'welcome#biography', via: :get
 
-  match "studio" => 'welcome#studio', via: :get
+  match "control_room" => 'welcome#control_room', via: :get
 
   match "instruments" => 'welcome#instruments', via: :get
 
@@ -19,12 +19,12 @@ BelleIsleStudios::Application.routes.draw do
 
   match "workshops" => "welcome#workshops", via: :get
 
-  match "retreat" => "welcome#retreat", via: :get
+  match "sanctuary" => "welcome#sanctuary", via: :get
 
   match "contact" => "welcome#contact", via: :get
 
   match "jade" => "welcome#jade", via: :get
-  
+
   match "dwb" => "welcome#dwb", via: :get
 
   match "valann" => "welcome#valann", via: :get
