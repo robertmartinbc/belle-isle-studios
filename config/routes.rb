@@ -3,6 +3,8 @@ BelleIsleStudios::Application.routes.draw do
 
   resources :visitors
 
+  match "exbrit" => 'welcome#exbrit', via: :get
+
   match "biography" => 'welcome#biography', via: :get
 
   match "control_room" => 'welcome#control_room', via: :get
