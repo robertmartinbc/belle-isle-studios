@@ -1,7 +1,8 @@
 BelleIsleStudios::Application.routes.draw do
 
-
   resources :visitors
+
+  match "memory" => "welcome#memory", via: :get
 
   match "exbrit" => 'welcome#exbrit', via: :get
 
