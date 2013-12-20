@@ -1,0 +1,84 @@
+<div class="row">
+  <div class="span12">
+    <div class="span3">
+      <div id="myCarousel" class="carousel">
+        <div class="carousel-inner">
+            <div class="item"><%= image_tag("mariamanna.jpeg", class: "img-rounded") %></div>
+          </div>
+
+          <script type="text/javascript">
+            $(document).ready(function() {
+              $('.carousel').carousel({
+                interval:4000
+              });
+            });
+          </script>
+
+          <div>
+        </div>
+      </div>
+    </div>
+
+    <div>
+      <div class ="span5" class="panel-group" id="accordion">
+        <div class="panel">
+          <div class="panel-heading">
+            <h4 class="panel-title">
+              <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
+              <h4><i class="icon-book icon-2x"></i> - Biography</h4>
+              </a>
+            </h4>
+           </div>
+         </br>
+          <div id="collapseOne" class="panel-collapse collapse in">
+        <div class="panel-body">
+          <br>
+        <p><font size="20">A</font>s a Singer/Producer/Philanthropist, Maria Manna, is the recipient of the 2013 Governor General Caring Canadian Award for her philanthropic work and the 2013 Unlimited Woman of Style Award.
+        She is inducted in the Alberta Music Archives for the first female Italian Canadian to have recorded in Alberta.</p>
+
+        <p>Maria Manna is the Executive Producer & Host of Vancouver Island's Got Talent, performs and produces Women of Jazz, Women of Blues and Women of Gospel. Maria Manna entertains audiences in Canada, the United States and Europe. She exudes professional confidence and a magnetic charm that is woven into her performances, from swing to ballad and jazz. Audiences are enthralled by her vocal presence and instinctive lyrical sense.</p>
+
+        <p>She is an entertainment legend in her hometown of Edmonton, Alberta. Maria was Klondike Kate and served as Ambassador for the city of Edmonton in 1999 and 2000. She performed for iconic former Prime Minister Pierre Trudeau at the Jubilee Auditorium and was also honored as an inductee into the Music Archives of Alberta.</p>
+
+        <p>Additional highlights of her career include performing with double Grammy award winner Paul Horn, the George Haden Orchestra, the Tommy Banks Orchestra, the Paul Brunetti Orchestra and opening for the Beach Boys. Her movie credits include the principal vocalist role as well as script coach for “The Engagement Ring”.</p>
+
+        <p>She was proud to have been chosen to entertain the Canadian Military in Aviano, Italy and the Canadian Military in Bosnia on a ten-day tour.</p>
+
+        <p>Her self-entitled CD is receiving rave reviews across North America and Europe.</p>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+  <div class ="span3" class="panel-group" id="accordion">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+          <h4><i class="icon-bullseye icon-2x"></i> - Discography</h4>
+        </a>
+      </h4>
+    </div>
+    <br>
+    <div id="collapseTwo" class="panel-collapse collapse in">
+      <div class="panel-body">
+        <div>
+            <strong>Desiderio/Desire</strong>
+          <p><audio src="/music/Desiderio.mp3" preload="auto" width="50" /></p>
+        </div>
+        <div>
+            <strong>Who Pushed Humpty Dumpty?</strong>
+          <p><audio src="/music/Who Pushed Humpty Dumpty.mp3" preload="auto" width="50" /></p>
+        </div>
+      </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="/audiojs/audio.min.js"></script>
+
+<script>
+  audiojs.events.ready(function() {
+    var as = audiojs.createAll();
+  });
+</script>
+
