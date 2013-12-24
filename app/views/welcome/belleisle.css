@@ -1,0 +1,6096 @@
+/* Define default spinner */
+
+.ui-icon-loading {
+
+    background: url("files/resources/lib/jquerymobile/1.3.2/images/ajax-loader.gif") repeat scroll 0 0 / 46px 46px transparent!important;
+
+}
+
+/* mobilecontainer1 */
+
+.ui-content.homePage_mobilecontainer1 {
+
+    padding: 0px 0px 0px 0px;
+
+    height: 100%;
+
+    background-color: #000000;
+
+}
+
+/* mobileimage_2 */
+
+.homePage_mobileimage_2 {
+
+    margin: 0px 0px 0px 0px;
+
+    width: 100%;
+
+    height: auto;
+
+    display: block;
+
+}
+
+/* mobilegrid_18 */
+
+.homePage_mobilegrid_18 {
+
+    height: auto;
+
+    width:100%;
+
+    margin: 4px 0px 4px 0px;
+
+    border-collapse: collapse;
+
+    table-layout: fixed;
+
+}
+
+.homePage_mobilegrid_18 > tr > td {
+
+    vertical-align: top;
+
+}
+
+.homePage_mobilegrid_18_row_0, .homePage_mobilegrid_18_row_0 > td {
+
+    height: 30px
+
+}
+
+/* mobilegridcell_19 */
+
+.homePage_mobilegridcell_19 {
+
+    height:30px !important;
+
+    width:200px;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.homePage_mobilegridcell_19 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* mobilelabel_29 */
+
+.homePage_mobilelabel_29 {
+
+    text-decoration: none;
+
+    font-weight: normal;
+
+    text-align: left;
+
+    font-family: Helvetica;
+
+    font-size: 16px;
+
+    margin: 0px 0px 0px 0px;
+
+    word-wrap: break-word;
+
+}
+
+/* mobilegridcell_20 */
+
+.homePage_mobilegridcell_20 {
+
+    height:30px !important;
+
+    width:auto;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.homePage_mobilegridcell_20 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* soundCloudImage */
+
+.homePage_soundCloudImage {
+
+    margin: 4px 0px 4px 0px;
+
+    width: 25px;
+
+    height: 25px;
+
+    display: block;
+
+}
+
+/* mobilegridcell_23 */
+
+.homePage_mobilegridcell_23 {
+
+    height:30px !important;
+
+    width:auto;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.homePage_mobilegridcell_23 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* facebookImage */
+
+.homePage_facebookImage {
+
+    margin: 4px 0px 4px 0px;
+
+    width: 25px;
+
+    height: 25px;
+
+    display: block;
+
+}
+
+/* mobilegridcell_24 */
+
+.homePage_mobilegridcell_24 {
+
+    height:30px !important;
+
+    width:auto;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.homePage_mobilegridcell_24 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* twitterImage */
+
+.homePage_twitterImage {
+
+    margin: 4px 0px 4px 0px;
+
+    width: 25px;
+
+    height: 25px;
+
+    display: block;
+
+}
+
+/* mobilegridcell_25 */
+
+.homePage_mobilegridcell_25 {
+
+    height:30px !important;
+
+    width:auto;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.homePage_mobilegridcell_25 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* linkedinImage */
+
+.homePage_linkedinImage {
+
+    margin: 4px 0px 4px 0px;
+
+    width: 25px;
+
+    height: 25px;
+
+    display: block;
+
+}
+
+/* welcomeParagraph1 */
+
+.homePage_welcomeParagraph1 {
+
+    text-decoration: none;
+
+    font-weight: normal;
+
+    text-align: justify;
+
+    font-family: Helvetica;
+
+    font-size: 15px;
+
+    margin: 10px 4px 0px 4px;
+
+    word-wrap: break-word;
+
+}
+
+/* panoramicImage */
+
+.homePage_panoramicImage {
+
+    margin: 10px 4px 4px 4px;
+
+    width: 100%;
+
+    height: auto;
+
+    display: block;
+
+}
+
+/* welcomeParagraph2 */
+
+.homePage_welcomeParagraph2 {
+
+    text-decoration: none;
+
+    font-weight: normal;
+
+    text-align: justify;
+
+    font-family: Helvetica;
+
+    font-size: 15px;
+
+    margin: 10px 4px 0px 4px;
+
+    word-wrap: break-word;
+
+}
+
+/* welcomeParagraph3 */
+
+.homePage_welcomeParagraph3 {
+
+    text-decoration: none;
+
+    font-weight: normal;
+
+    text-align: justify;
+
+    font-family: Helvetica;
+
+    font-size: 15px;
+
+    margin: 10px 4px 0px 4px;
+
+    word-wrap: break-word;
+
+}
+
+/* welcomeParagraph4 */
+
+.homePage_welcomeParagraph4 {
+
+    text-decoration: none;
+
+    font-weight: normal;
+
+    text-align: justify;
+
+    font-family: Helvetica;
+
+    font-size: 15px;
+
+    margin: 10px 4px 0px 4px;
+
+    word-wrap: break-word;
+
+}
+
+/* welcomeParagraph5 */
+
+.homePage_welcomeParagraph5 {
+
+    text-decoration: none;
+
+    font-weight: normal;
+
+    text-align: center;
+
+    font-family: Helvetica;
+
+    font-size: 7px;
+
+    margin: 10px 4px 10px 4px;
+
+    word-wrap: break-word;
+
+}
+
+/* mobilefooter1 */
+
+.homePage_mobilefooter1 {
+
+    min-height:38px;
+
+}
+
+/* mobilenavbar_3 */
+
+.homePage_mobilenavbar_3 {
+
+}
+
+.homePage_mobilenavbar_3 .ui-grid-a .ui-block-a {
+
+    clear:none;
+
+}
+
+.ui-footer .homePage_mobilenavbar_3 ul li:last-child a {
+
+    margin-right: 1px !important;
+
+}
+
+.ui-header .homePage_mobilenavbar_3 ul li:last-child a {
+
+    margin-right: -1px !important;
+
+}
+
+.homePage_mobilenavbar_3 ul.ui-grid-duo li:nth-child(even) a {
+
+    margin-right: 1px !important;
+
+}
+
+/* mobilenavbar_7 */
+
+.homePage_mobilenavbar_7 {
+
+}
+
+.homePage_mobilenavbar_7 .ui-grid-a .ui-block-a {
+
+    clear:none;
+
+}
+
+.ui-footer .homePage_mobilenavbar_7 ul li:last-child a {
+
+    margin-right: 1px !important;
+
+}
+
+.ui-header .homePage_mobilenavbar_7 ul li:last-child a {
+
+    margin-right: -1px !important;
+
+}
+
+.homePage_mobilenavbar_7 ul.ui-grid-duo li:nth-child(even) a {
+
+    margin-right: 1px !important;
+
+}
+
+/*
+* CSS for musiciansPage generated by Exadel Appery
+*/
+
+/* mobilecontainer1 */
+
+.ui-content.musiciansPage_mobilecontainer1 {
+
+    padding: 0px 0px 0px 0px;
+
+    height: 100%;
+
+    background-color: #000000;
+
+}
+
+/* mobileimage_2 */
+
+.musiciansPage_mobileimage_2 {
+
+    margin: 0px 0px 0px 0px;
+
+    width: 100%;
+
+    height: auto;
+
+    display: block;
+
+}
+
+/* mobilegrid_13 */
+
+.musiciansPage_mobilegrid_13 {
+
+    height: auto;
+
+    width: 100%;
+
+    margin: 4px 0px 4px 0px;
+
+    border-collapse: collapse;
+
+    table-layout: fixed;
+
+}
+
+.musiciansPage_mobilegrid_13 > tr > td {
+
+    vertical-align: top;
+
+}
+
+.musiciansPage_mobilegrid_13_row_0, .musiciansPage_mobilegrid_13_row_0 > td {
+
+    height: auto;
+    width: 100%;
+
+}
+
+/* mobilegridcell_14 */
+
+.musiciansPage_mobilegridcell_14 {
+
+    height: auto !important;
+
+    width: 100%;
+
+    padding: 0px 0px 0px 0px;
+
+}
+
+.musiciansPage_mobilegridcell_14 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* musiciansLabel */
+
+.musiciansPage_musiciansLabel {
+
+    text-decoration: none;
+
+    font-weight: normal;
+
+    text-align: left;
+
+    font-family: Helvetica;
+
+    font-size: 16px;
+
+    margin: 0px 0px 0px 4px;
+
+    word-wrap: break-word;
+
+}
+
+/* mobilegridcell_15 */
+
+.musiciansPage_mobilegridcell_15 {
+
+    height: auto !important;
+
+    width: 100%;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.musiciansPage_mobilegridcell_15 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* musiciansBackButton */
+
+#musiciansPage_musiciansBackButton {
+
+}
+
+.ui-btn.musiciansPage_musiciansBackButton {
+
+    margin: 0px 0px 0px 10px;
+
+}
+
+/* mobilefooter1 */
+
+.musiciansPage_mobilefooter1 {
+
+    min-height: auto;
+
+}
+
+/* mobilenavbar_3 */
+
+.musiciansPage_mobilenavbar_3 {
+
+}
+
+.musiciansPage_mobilenavbar_3 .ui-grid-a .ui-block-a {
+
+    clear:none;
+
+}
+
+.ui-footer .musiciansPage_mobilenavbar_3 ul li:last-child a {
+
+    margin-right: 1px !important;
+
+}
+
+.ui-header .musiciansPage_mobilenavbar_3 ul li:last-child a {
+
+    margin-right: -1px !important;
+
+}
+
+.musiciansPage_mobilenavbar_3 ul.ui-grid-duo li:nth-child(even) a {
+
+    margin-right: 1px !important;
+
+}
+
+/* mobilenavbar_7 */
+
+.musiciansPage_mobilenavbar_7 {
+
+}
+
+.musiciansPage_mobilenavbar_7 .ui-grid-a .ui-block-a {
+
+    clear:none;
+
+}
+
+.ui-footer .musiciansPage_mobilenavbar_7 ul li:last-child a {
+
+    margin-right: 1px !important;
+
+}
+
+.ui-header .musiciansPage_mobilenavbar_7 ul li:last-child a {
+
+    margin-right: -1px !important;
+
+}
+
+.musiciansPage_mobilenavbar_7 ul.ui-grid-duo li:nth-child(even) a {
+
+    margin-right: 1px !important;
+
+}
+
+/*
+* CSS for sanctuaryPage generated by Exadel Appery
+*/
+
+/* mobilecontainer1 */
+
+.ui-content.sanctuaryPage_mobilecontainer1 {
+
+    padding: 0px 0px 0px 0px;
+
+    height: 100%;
+
+    background-color: #000000;
+
+}
+
+/* mobileimage_2 */
+
+.sanctuaryPage_mobileimage_2 {
+
+    margin: 0px 0px 0px 0px;
+
+    width: 100;
+
+    height: auto;
+
+    display: block;
+
+}
+
+/* mobilelabel_11 */
+
+.sanctuaryPage_mobilelabel_11 {
+
+    text-decoration: none;
+
+    font-weight: normal;
+
+    text-align: left;
+
+    font-family: Helvetica;
+
+    font-size: 14px;
+
+    margin: 10px 4px 0px 4px;
+
+    word-wrap: break-word;
+
+}
+
+/* mobilefooter1 */
+
+.sanctuaryPage_mobilefooter1 {
+
+    min-height:38px;
+
+}
+
+/* mobilenavbar_3 */
+
+.sanctuaryPage_mobilenavbar_3 {
+
+}
+
+.sanctuaryPage_mobilenavbar_3 .ui-grid-a .ui-block-a {
+
+    clear:none;
+
+}
+
+.ui-footer .sanctuaryPage_mobilenavbar_3 ul li:last-child a {
+
+    margin-right: 1px !important;
+
+}
+
+.ui-header .sanctuaryPage_mobilenavbar_3 ul li:last-child a {
+
+    margin-right: -1px !important;
+
+}
+
+.sanctuaryPage_mobilenavbar_3 ul.ui-grid-duo li:nth-child(even) a {
+
+    margin-right: 1px !important;
+
+}
+
+/* mobilenavbar_7 */
+
+.sanctuaryPage_mobilenavbar_7 {
+
+}
+
+.sanctuaryPage_mobilenavbar_7 .ui-grid-a .ui-block-a {
+
+    clear:none;
+
+}
+
+.ui-footer .sanctuaryPage_mobilenavbar_7 ul li:last-child a {
+
+    margin-right: 1px !important;
+
+}
+
+.ui-header .sanctuaryPage_mobilenavbar_7 ul li:last-child a {
+
+    margin-right: -1px !important;
+
+}
+
+.sanctuaryPage_mobilenavbar_7 ul.ui-grid-duo li:nth-child(even) a {
+
+    margin-right: 1px !important;
+
+}
+
+/*
+* CSS for workshopsPage generated by Exadel Appery
+*/
+
+/* mobilecontainer1 */
+
+.ui-content.workshopsPage_mobilecontainer1 {
+
+    padding: 0px 0px 0px 0px;
+
+    height: 100%;
+
+    background-color: #000000;
+
+}
+
+/* mobileimage_2 */
+
+.workshopsPage_mobileimage_2 {
+
+    margin: 0px 0px 0px 0px;
+
+    width: 100%;
+
+    height: auto;
+
+    display: block;
+
+}
+
+/* mobilegrid_13 */
+
+.workshopsPage_mobilegrid_13 {
+
+    height: auto;
+
+    width:100%;
+
+    margin: 4px 0px 4px 0px;
+
+    border-collapse: collapse;
+
+    table-layout: fixed;
+
+}
+
+.workshopsPage_mobilegrid_13 > tr > td {
+
+    vertical-align: top;
+
+}
+
+.workshopsPage_mobilegrid_13_row_0, .workshopsPage_mobilegrid_13_row_0 > td {
+
+    height: 30px
+
+}
+
+/* mobilegridcell_14 */
+
+.workshopsPage_mobilegridcell_14 {
+
+    height:30px !important;
+
+    width:230px;
+
+    padding: 0px 0px 0px 0px;
+
+}
+
+.workshopsPage_mobilegridcell_14 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* workshopsLabel */
+
+.workshopsPage_workshopsLabel {
+
+    text-decoration: none;
+
+    font-weight: normal;
+
+    text-align: left;
+
+    font-family: Helvetica;
+
+    font-size: 16px;
+
+    margin: 0px 0px 0px 4px;
+
+    word-wrap: break-word;
+
+}
+
+/* mobilegridcell_15 */
+
+.workshopsPage_mobilegridcell_15 {
+
+    height:30px !important;
+
+    width:auto;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.workshopsPage_mobilegridcell_15 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* workshopsBackButton */
+
+#workshopsPage_workshopsBackButton {
+
+}
+
+.ui-btn.workshopsPage_workshopsBackButton {
+
+    margin: 0px 0px 0px 10px;
+
+}
+
+/* mobilefooter1 */
+
+.workshopsPage_mobilefooter1 {
+
+    min-height:38px;
+
+}
+
+/* mobilenavbar_3 */
+
+.workshopsPage_mobilenavbar_3 {
+
+}
+
+.workshopsPage_mobilenavbar_3 .ui-grid-a .ui-block-a {
+
+    clear:none;
+
+}
+
+.ui-footer .workshopsPage_mobilenavbar_3 ul li:last-child a {
+
+    margin-right: 1px !important;
+
+}
+
+.ui-header .workshopsPage_mobilenavbar_3 ul li:last-child a {
+
+    margin-right: -1px !important;
+
+}
+
+.workshopsPage_mobilenavbar_3 ul.ui-grid-duo li:nth-child(even) a {
+
+    margin-right: 1px !important;
+
+}
+
+/* mobilenavbar_7 */
+
+.workshopsPage_mobilenavbar_7 {
+
+}
+
+.workshopsPage_mobilenavbar_7 .ui-grid-a .ui-block-a {
+
+    clear:none;
+
+}
+
+.ui-footer .workshopsPage_mobilenavbar_7 ul li:last-child a {
+
+    margin-right: 1px !important;
+
+}
+
+.ui-header .workshopsPage_mobilenavbar_7 ul li:last-child a {
+
+    margin-right: -1px !important;
+
+}
+
+.workshopsPage_mobilenavbar_7 ul.ui-grid-duo li:nth-child(even) a {
+
+    margin-right: 1px !important;
+
+}
+
+/*
+* CSS for controlRoomPage generated by Exadel Appery
+*/
+
+/* mobilecontainer1 */
+
+.ui-content.controlRoomPage_mobilecontainer1 {
+
+    padding: 0px 0px 0px 0px;
+
+    height: 100%;
+
+    background-color: #000000;
+
+}
+
+/* mobileimage_2 */
+
+.controlRoomPage_mobileimage_2 {
+
+    margin: 0px 0px 0px 0px;
+
+    width: 100%;
+
+    height: auto;
+
+    display: block;
+
+}
+
+/* mobilegrid_13 */
+
+.controlRoomPage_mobilegrid_13 {
+
+    height: auto;
+
+    width:100%;
+
+    margin: 4px 0px 4px 0px;
+
+    border-collapse: collapse;
+
+    table-layout: fixed;
+
+}
+
+.controlRoomPage_mobilegrid_13 > tr > td {
+
+    vertical-align: top;
+
+}
+
+.controlRoomPage_mobilegrid_13_row_0, .controlRoomPage_mobilegrid_13_row_0 > td {
+
+    height: 30px
+
+}
+
+/* mobilegridcell_14 */
+
+.controlRoomPage_mobilegridcell_14 {
+
+    height: auto !important;
+
+    width: 100%;
+
+    padding: 0px 0px 0px 0px;
+
+}
+
+.controlRoomPage_mobilegridcell_14 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* controlRoomLabel */
+
+.controlRoomPage_controlRoomLabel {
+
+    text-decoration: none;
+
+    font-weight: normal;
+
+    text-align: left;
+
+    font-family: Helvetica;
+
+    font-size: 16px;
+
+    margin: 0px 0px 0px 4px;
+
+    word-wrap: break-word;
+
+}
+
+/* mobilegridcell_15 */
+
+.controlRoomPage_mobilegridcell_15 {
+
+    height: auto !important;
+
+    width: 100%;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.controlRoomPage_mobilegridcell_15 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* controlRoomBackButton */
+
+#controlRoomPage_controlRoomBackButton {
+
+}
+
+.ui-btn.controlRoomPage_controlRoomBackButton {
+
+    margin: 0px 0px 0px 10px;
+
+}
+
+/* controlParagraph1 */
+
+.controlRoomPage_controlParagraph1 {
+
+    text-decoration: none;
+
+    font-weight: normal;
+
+    text-align: justify;
+
+    font-family: Helvetica;
+
+    font-size: 15px;
+
+    margin: 10px 4px 0px 4px;
+
+    word-wrap: break-word;
+
+}
+
+/* mobilegrid_28 */
+
+.controlRoomPage_mobilegrid_28 {
+
+    height: auto;
+
+    width:100%;
+
+    margin: 0px 0px 0px 0px;
+
+    border-collapse: collapse;
+
+    table-layout: fixed;
+
+}
+
+.controlRoomPage_mobilegrid_28 > tr > td {
+
+    vertical-align: top;
+
+}
+
+.controlRoomPage_mobilegrid_28_row_0, .controlRoomPage_mobilegrid_28_row_0 > td {
+
+    height: 30px
+
+}
+
+/* mobilegridcell_29 */
+
+.controlRoomPage_mobilegridcell_29 {
+
+    height:30px !important;
+
+    width:auto;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.controlRoomPage_mobilegridcell_29 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* mobileimage_44 */
+
+.controlRoomPage_mobileimage_44 {
+
+    margin: 10px 2px 0px 2px;
+
+    width: 100%;
+
+    height: auto;
+
+    display: block;
+
+}
+
+/* mobilegridcell_30 */
+
+.controlRoomPage_mobilegridcell_30 {
+
+    height:30px !important;
+
+    width:auto;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.controlRoomPage_mobilegridcell_30 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* mobileimage_45 */
+
+.controlRoomPage_mobileimage_45 {
+
+    margin: 10px 2px 0px 2px;
+
+    width: 100%;
+
+    height: auto;
+
+    display: block;
+
+}
+
+/* mobilegridcell_33 */
+
+.controlRoomPage_mobilegridcell_33 {
+
+    height:30px !important;
+
+    width:auto;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.controlRoomPage_mobilegridcell_33 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* mobileimage_46 */
+
+.controlRoomPage_mobileimage_46 {
+
+    margin: 10px 2px 0px 2px;
+
+    width: 100%;
+
+    height: auto;
+
+    display: block;
+
+}
+
+/* controlParagraph2 */
+
+.controlRoomPage_controlParagraph2 {
+
+    text-decoration: none;
+
+    font-weight: normal;
+
+    text-align: justify;
+
+    font-family: Helvetica;
+
+    font-size: 15px;
+
+    margin: 10px 4px 0px 4px;
+
+    word-wrap: break-word;
+
+}
+
+/* mobilegrid_21 */
+
+.controlRoomPage_mobilegrid_21 {
+
+    height: auto;
+
+    width:100%;
+
+    margin: 4px 0px 4px 0px;
+
+    border-collapse: collapse;
+
+    table-layout: fixed;
+
+}
+
+.controlRoomPage_mobilegrid_21 > tr > td {
+
+    vertical-align: top;
+
+}
+
+.controlRoomPage_mobilegrid_21_row_0, .controlRoomPage_mobilegrid_21_row_0 > td {
+
+    height: 30px
+
+}
+
+/* mobilegridcell_22 */
+
+.controlRoomPage_mobilegridcell_22 {
+
+    height:30px !important;
+
+    width:auto;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.controlRoomPage_mobilegridcell_22 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* mobileimage_47 */
+
+.controlRoomPage_mobileimage_47 {
+
+    margin: 10px 2px 0px 2px;
+
+    width: 100%;
+
+    height: auto;
+
+    display: block;
+
+}
+
+/* mobilegridcell_23 */
+
+.controlRoomPage_mobilegridcell_23 {
+
+    height:30px !important;
+
+    width:auto;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.controlRoomPage_mobilegridcell_23 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* mobileimage_48 */
+
+.controlRoomPage_mobileimage_48 {
+
+    margin: 10px 2px 0px 2px;
+
+    width: 100%;
+
+    height: auto;
+
+    display: block;
+
+}
+
+/* mobilegridcell_26 */
+
+.controlRoomPage_mobilegridcell_26 {
+
+    height:30px !important;
+
+    width:auto;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.controlRoomPage_mobilegridcell_26 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* mobileimage_49 */
+
+.controlRoomPage_mobileimage_49 {
+
+    margin: 10px 2px 0px 2px;
+
+    width: 100%;
+
+    height: auto;
+
+    display: block;
+
+}
+
+/* controlParagraph3 */
+
+.controlRoomPage_controlParagraph3 {
+
+    text-decoration: none;
+
+    font-weight: normal;
+
+    text-align: justify;
+
+    font-family: Helvetica;
+
+    font-size: 15px;
+
+    margin: 10px 4px 0px 4px;
+
+    word-wrap: break-word;
+
+}
+
+/* mobilegrid_36 */
+
+.controlRoomPage_mobilegrid_36 {
+
+    height: auto;
+
+    width:100%;
+
+    margin: 4px 0px 4px 0px;
+
+    border-collapse: collapse;
+
+    table-layout: fixed;
+
+}
+
+.controlRoomPage_mobilegrid_36 > tr > td {
+
+    vertical-align: top;
+
+}
+
+.controlRoomPage_mobilegrid_36_row_0, .controlRoomPage_mobilegrid_36_row_0 > td {
+
+    height: 30px
+
+}
+
+/* mobilegridcell_37 */
+
+.controlRoomPage_mobilegridcell_37 {
+
+    height:30px !important;
+
+    width:auto;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.controlRoomPage_mobilegridcell_37 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* mobileimage_50 */
+
+.controlRoomPage_mobileimage_50 {
+
+    margin: 10px 2px 0px 2px;
+
+    width: 100%;
+
+    height: auto;
+
+    display: block;
+
+}
+
+/* mobilegridcell_38 */
+
+.controlRoomPage_mobilegridcell_38 {
+
+    height:30px !important;
+
+    width:auto;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.controlRoomPage_mobilegridcell_38 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* mobileimage_51 */
+
+.controlRoomPage_mobileimage_51 {
+
+    margin: 10px 2px 0px 2px;
+
+    width: 100%;
+
+    height: auto;
+
+    display: block;
+
+}
+
+/* mobilegridcell_41 */
+
+.controlRoomPage_mobilegridcell_41 {
+
+    height:30px !important;
+
+    width:auto;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.controlRoomPage_mobilegridcell_41 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* mobileimage_52 */
+
+.controlRoomPage_mobileimage_52 {
+
+    margin: 10px 2px 0px 2px;
+
+    width: 100%;
+
+    height: auto;
+
+    display: block;
+
+}
+
+/* controlParagraph4 */
+
+.controlRoomPage_controlParagraph4 {
+
+    text-decoration: none;
+
+    font-weight: normal;
+
+    text-align: justify;
+
+    font-family: Helvetica;
+
+    font-size: 15px;
+
+    margin: 10px 4px 0px 4px;
+
+    word-wrap: break-word;
+
+}
+
+/* controlParagraph5 */
+
+.controlRoomPage_controlParagraph5 {
+
+    text-decoration: none;
+
+    font-weight: normal;
+
+    font-style: italic;
+
+    text-align: center;
+
+    font-family: Helvetica;
+
+    font-size: 7px;
+
+    margin: 10px 4px 10px 4px;
+
+    word-wrap: break-word;
+
+}
+
+/* mobilefooter1 */
+
+.controlRoomPage_mobilefooter1 {
+
+    min-height:38px;
+
+}
+
+/* mobilenavbar_3 */
+
+.controlRoomPage_mobilenavbar_3 {
+
+}
+
+.controlRoomPage_mobilenavbar_3 .ui-grid-a .ui-block-a {
+
+    clear:none;
+
+}
+
+.ui-footer .controlRoomPage_mobilenavbar_3 ul li:last-child a {
+
+    margin-right: 1px !important;
+
+}
+
+.ui-header .controlRoomPage_mobilenavbar_3 ul li:last-child a {
+
+    margin-right: -1px !important;
+
+}
+
+.controlRoomPage_mobilenavbar_3 ul.ui-grid-duo li:nth-child(even) a {
+
+    margin-right: 1px !important;
+
+}
+
+/* mobilenavbar_7 */
+
+.controlRoomPage_mobilenavbar_7 {
+
+}
+
+.controlRoomPage_mobilenavbar_7 .ui-grid-a .ui-block-a {
+
+    clear:none;
+
+}
+
+.ui-footer .controlRoomPage_mobilenavbar_7 ul li:last-child a {
+
+    margin-right: 1px !important;
+
+}
+
+.ui-header .controlRoomPage_mobilenavbar_7 ul li:last-child a {
+
+    margin-right: -1px !important;
+
+}
+
+.controlRoomPage_mobilenavbar_7 ul.ui-grid-duo li:nth-child(even) a {
+
+    margin-right: 1px !important;
+
+}
+
+/*
+* CSS for valannDiscography generated by Exadel Appery
+*/
+
+/* mobilecontainer1 */
+
+.ui-content.valannDiscography_mobilecontainer1 {
+
+    padding: 0px 0px 0px 0px;
+
+    height: 100%;
+
+    background-color: #000000;
+
+}
+
+/* mobileimage_2 */
+
+.valannDiscography_mobileimage_2 {
+
+    margin: 0px 0px 0px 0px;
+
+    width: 100%;
+
+    height: auto;
+
+    display: block;
+
+}
+
+/* mobilegrid_13 */
+
+.valannDiscography_mobilegrid_13 {
+
+    height: auto;
+
+    width:100%;
+
+    margin: 4px 0px 4px 0px;
+
+    border-collapse: collapse;
+
+    table-layout: fixed;
+
+}
+
+.valannDiscography_mobilegrid_13 > tr > td {
+
+    vertical-align: top;
+
+}
+
+.valannDiscography_mobilegrid_13_row_0, .valannDiscography_mobilegrid_13_row_0 > td {
+
+    height: auto
+
+}
+
+/* mobilegridcell_14 */
+
+.valannDiscography_mobilegridcell_14 {
+
+    height:auto !important;
+
+    width:100%;
+
+    padding: 0px 0px 0px 0px;
+
+}
+
+.valannDiscography_mobilegridcell_14 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* valannDiscographyLabel */
+
+.valannDiscography_valannDiscographyLabel {
+
+    text-decoration: none;
+
+    font-weight: normal;
+
+    text-align: left;
+
+    font-family: Helvetica;
+
+    font-size: 16px;
+
+    margin: 0px 0px 0px 4px;
+
+    word-wrap: break-word;
+
+}
+
+/* mobilegridcell_15 */
+
+.valannDiscography_mobilegridcell_15 {
+
+    height:auto !important;
+
+    width:auto;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.valannDiscography_mobilegridcell_15 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* valanDiscographyBackButton */
+
+#valannDiscography_valanDiscographyBackButton {
+
+}
+
+.ui-btn.valannDiscography_valanDiscographyBackButton {
+
+    margin: 0px 0px 0px 10px;
+
+}
+
+/* mobilegrid_18 */
+
+.valannDiscography_mobilegrid_18 {
+
+    height: auto;
+
+    width:100%;
+
+    margin: 4px 0px 4px 0px;
+
+    border-collapse: collapse;
+
+    table-layout: fixed;
+
+}
+
+.valannDiscography_mobilegrid_18 > tr > td {
+
+    vertical-align: top;
+
+}
+
+.valannDiscography_mobilegrid_18_row_0, .valannDiscography_mobilegrid_18_row_0 > td {
+
+    height: auto
+
+}
+
+/* mobilegridcell_19 */
+
+.valannDiscography_mobilegridcell_19 {
+
+    height:auto !important;
+
+    width:100%;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.valannDiscography_mobilegridcell_19 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* valannBiographyButton */
+
+#valannDiscography_valannBiographyButton {
+
+}
+
+.ui-btn.valannDiscography_valannBiographyButton {
+
+    margin: 4px 0px 0px 4px;
+
+}
+
+/* mobilegridcell_20 */
+
+.valannDiscography_mobilegridcell_20 {
+
+    height:auto !important;
+
+    width:100%;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.valannDiscography_mobilegridcell_20 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* valannDiscographyButton */
+
+#valannDiscography_valannDiscographyButton {
+
+}
+
+.ui-btn.valannDiscography_valannDiscographyButton {
+
+    margin: 4px 0px 0px 5px;
+
+}
+
+/* mobilegridcell_23 */
+
+.valannDiscography_mobilegridcell_23 {
+
+    height:auto !important;
+
+    width:100;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.valannDiscography_mobilegridcell_23 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* valannVideographyButton */
+
+#valannDiscography_valannVideographyButton {
+
+}
+
+.ui-btn.valannDiscography_valannVideographyButton {
+
+    margin: 4px 0px 0px 4px;
+
+}
+
+/* mobilefooter1 */
+
+.valannDiscography_mobilefooter1 {
+
+    min-height:auto;
+
+}
+
+/* mobilenavbar_3 */
+
+.valannDiscography_mobilenavbar_3 {
+
+}
+
+.valannDiscography_mobilenavbar_3 .ui-grid-a .ui-block-a {
+
+    clear:none;
+
+}
+
+.ui-footer .valannDiscography_mobilenavbar_3 ul li:last-child a {
+
+    margin-right: 1px !important;
+
+}
+
+.ui-header .valannDiscography_mobilenavbar_3 ul li:last-child a {
+
+    margin-right: -1px !important;
+
+}
+
+.valannDiscography_mobilenavbar_3 ul.ui-grid-duo li:nth-child(even) a {
+
+    margin-right: 1px !important;
+
+}
+
+/* mobilenavbar_7 */
+
+.valannDiscography_mobilenavbar_7 {
+
+}
+
+.valannDiscography_mobilenavbar_7 .ui-grid-a .ui-block-a {
+
+    clear:none;
+
+}
+
+.ui-footer .valannDiscography_mobilenavbar_7 ul li:last-child a {
+
+    margin-right: 1px !important;
+
+}
+
+.ui-header .valannDiscography_mobilenavbar_7 ul li:last-child a {
+
+    margin-right: -1px !important;
+
+}
+
+.valannDiscography_mobilenavbar_7 ul.ui-grid-duo li:nth-child(even) a {
+
+    margin-right: 1px !important;
+
+}
+
+/*
+* CSS for valannVideography generated by Exadel Appery
+*/
+
+/* mobilecontainer1 */
+
+.ui-content.valannVideography_mobilecontainer1 {
+
+    padding: 0px 0px 0px 0px;
+
+    height: 100%;
+
+    background-color: #000000;
+
+}
+
+/* mobileimage_2 */
+
+.valannVideography_mobileimage_2 {
+
+    margin: 0px 0px 0px 0px;
+
+    width: 100%;
+
+    height: auto;
+
+    display: block;
+
+}
+
+/* mobilegrid_13 */
+
+.valannVideography_mobilegrid_13 {
+
+    height: auto;
+
+    width:100%;
+
+    margin: 4px 0px 4px 0px;
+
+    border-collapse: collapse;
+
+    table-layout: fixed;
+
+}
+
+.valannVideography_mobilegrid_13 > tr > td {
+
+    vertical-align: top;
+
+}
+
+.valannVideography_mobilegrid_13_row_0, .valannVideography_mobilegrid_13_row_0 > td {
+
+    height: 30px
+
+}
+
+/* mobilegridcell_14 */
+
+.valannVideography_mobilegridcell_14 {
+
+    height:auto !important;
+
+    width:100%;
+
+    padding: 0px 0px 0px 0px;
+
+}
+
+.valannVideography_mobilegridcell_14 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* valannVideographyLabel */
+
+.valannVideography_valannVideographyLabel {
+
+    text-decoration: none;
+
+    font-weight: normal;
+
+    text-align: left;
+
+    font-family: Helvetica;
+
+    font-size: 16px;
+
+    margin: 0px 0px 0px 4px;
+
+    word-wrap: break-word;
+
+}
+
+/* mobilegridcell_15 */
+
+.valannVideography_mobilegridcell_15 {
+
+    height:auto !important;
+
+    width:100%;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.valannVideography_mobilegridcell_15 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* valannVideographyBackButton */
+
+#valannVideography_valannVideographyBackButton {
+
+}
+
+.ui-btn.valannVideography_valannVideographyBackButton {
+
+    margin: 0px 0px 0px 10px;
+
+}
+
+/* mobilegrid_18 */
+
+.valannVideography_mobilegrid_18 {
+
+    height: auto;
+
+    width:100%;
+
+    margin: 4px 0px 4px 0px;
+
+    border-collapse: collapse;
+
+    table-layout: fixed;
+
+}
+
+.valannVideography_mobilegrid_18 > tr > td {
+
+    vertical-align: top;
+
+}
+
+.valannVideography_mobilegrid_18_row_0, .valannVideography_mobilegrid_18_row_0 > td {
+
+    height: auto
+
+}
+
+/* mobilegridcell_19 */
+
+.valannVideography_mobilegridcell_19 {
+
+    height:auto !important;
+
+    width:100%;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.valannVideography_mobilegridcell_19 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* valannBiographyButton */
+
+#valannVideography_valannBiographyButton {
+
+}
+
+.ui-btn.valannVideography_valannBiographyButton {
+
+    margin: 4px 0px 0px 4px;
+
+}
+
+/* mobilegridcell_20 */
+
+.valannVideography_mobilegridcell_20 {
+
+    height:30px !important;
+
+    width:110px;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.valannVideography_mobilegridcell_20 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* valanDiscographyButton */
+
+#valannVideography_valanDiscographyButton {
+
+}
+
+.ui-btn.valannVideography_valanDiscographyButton {
+
+    margin: 4px 0px 0px 0px;
+
+}
+
+/* mobilegridcell_23 */
+
+.valannVideography_mobilegridcell_23 {
+
+    height:30px !important;
+
+    width:110px;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.valannVideography_mobilegridcell_23 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* valannVideographyButton */
+
+#valannVideography_valannVideographyButton {
+
+}
+
+.ui-btn.valannVideography_valannVideographyButton {
+
+    margin: 4px 0px 0px 0px;
+
+}
+
+/* mobilelabel_25 */
+
+.valannVideography_mobilelabel_25 {
+
+    text-decoration: none;
+
+    font-weight: normal;
+
+    text-align: justify;
+
+    font-family: Helvetica;
+
+    font-size: 14px;
+
+    margin: 50px 4px 4px 4px;
+
+    word-wrap: break-word;
+
+}
+
+/* mobilefooter1 */
+
+.valannVideography_mobilefooter1 {
+
+    min-height:38px;
+
+}
+
+/* mobilenavbar_3 */
+
+.valannVideography_mobilenavbar_3 {
+
+}
+
+.valannVideography_mobilenavbar_3 .ui-grid-a .ui-block-a {
+
+    clear:none;
+
+}
+
+.ui-footer .valannVideography_mobilenavbar_3 ul li:last-child a {
+
+    margin-right: 1px !important;
+
+}
+
+.ui-header .valannVideography_mobilenavbar_3 ul li:last-child a {
+
+    margin-right: -1px !important;
+
+}
+
+.valannVideography_mobilenavbar_3 ul.ui-grid-duo li:nth-child(even) a {
+
+    margin-right: 1px !important;
+
+}
+
+/* mobilenavbar_7 */
+
+.valannVideography_mobilenavbar_7 {
+
+}
+
+.valannVideography_mobilenavbar_7 .ui-grid-a .ui-block-a {
+
+    clear:none;
+
+}
+
+.ui-footer .valannVideography_mobilenavbar_7 ul li:last-child a {
+
+    margin-right: 1px !important;
+
+}
+
+.ui-header .valannVideography_mobilenavbar_7 ul li:last-child a {
+
+    margin-right: -1px !important;
+
+}
+
+.valannVideography_mobilenavbar_7 ul.ui-grid-duo li:nth-child(even) a {
+
+    margin-right: 1px !important;
+
+}
+
+/*
+* CSS for gearPage generated by Exadel Appery
+*/
+
+/* mobilecontainer1 */
+
+.ui-content.gearPage_mobilecontainer1 {
+
+    padding: 0px 0px 0px 0px;
+
+    height: 100%;
+
+    background-color: black;
+
+}
+
+/* mobileimage_2 */
+
+.gearPage_mobileimage_2 {
+
+    margin: 0px 0px 0px 0px;
+
+    width: 100%;
+
+    height: auto;
+
+    display: block;
+
+}
+
+/* mobilegrid_13 */
+
+.gearPage_mobilegrid_13 {
+
+    height: auto;
+
+    width:100%;
+
+    margin: 4px 0px 4px 0px;
+
+    border-collapse: collapse;
+
+    table-layout: fixed;
+
+}
+
+.gearPage_mobilegrid_13 > tr > td {
+
+    vertical-align: top;
+
+}
+
+.gearPage_mobilegrid_13_row_0, .gearPage_mobilegrid_13_row_0 > td {
+
+    height: 30px
+
+}
+
+/* mobilegridcell_14 */
+
+.gearPage_mobilegridcell_14 {
+
+    height: auto !important;
+
+    width: 100%;
+
+    padding: 0px 0px 0px 0px;
+
+}
+
+.gearPage_mobilegridcell_14 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* mobilelabel_18 */
+
+.gearPage_mobilelabel_18 {
+
+    text-decoration: none;
+
+    font-weight: normal;
+
+    text-align: left;
+
+    font-family: Helvetica;
+
+    font-size: 16px;
+
+    margin: 0px 0px 0px 4px;
+
+    word-wrap: break-word;
+
+}
+
+/* mobilegridcell_15 */
+
+.gearPage_mobilegridcell_15 {
+
+    height:30px !important;
+
+    width:auto;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.gearPage_mobilegridcell_15 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* gearBackButton */
+
+#gearPage_gearBackButton {
+
+}
+
+.ui-btn.gearPage_gearBackButton {
+
+    margin: 0px 0px 0px 10px;
+
+}
+
+/* mobilefooter1 */
+
+.gearPage_mobilefooter1 {
+
+    min-height:38px;
+
+}
+
+/* mobilenavbar_3 */
+
+.gearPage_mobilenavbar_3 {
+
+}
+
+.gearPage_mobilenavbar_3 .ui-grid-a .ui-block-a {
+
+    clear:none;
+
+}
+
+.ui-footer .gearPage_mobilenavbar_3 ul li:last-child a {
+
+    margin-right: 1px !important;
+
+}
+
+.ui-header .gearPage_mobilenavbar_3 ul li:last-child a {
+
+    margin-right: -1px !important;
+
+}
+
+.gearPage_mobilenavbar_3 ul.ui-grid-duo li:nth-child(even) a {
+
+    margin-right: 1px !important;
+
+}
+
+/* mobilenavbar_7 */
+
+.gearPage_mobilenavbar_7 {
+
+}
+
+.gearPage_mobilenavbar_7 .ui-grid-a .ui-block-a {
+
+    clear:none;
+
+}
+
+.ui-footer .gearPage_mobilenavbar_7 ul li:last-child a {
+
+    margin-right: 1px !important;
+
+}
+
+.ui-header .gearPage_mobilenavbar_7 ul li:last-child a {
+
+    margin-right: -1px !important;
+
+}
+
+.gearPage_mobilenavbar_7 ul.ui-grid-duo li:nth-child(even) a {
+
+    margin-right: 1px !important;
+
+}
+
+/*
+* CSS for belleIslePage generated by Exadel Appery
+*/
+
+/* mobilecontainer1 */
+
+.ui-content.belleIslePage_mobilecontainer1 {
+
+    padding: 0px 0px 0px 0px;
+
+    height: 100%;
+
+    background-color: #000000;
+
+}
+
+/* mobileimage_2 */
+
+.belleIslePage_mobileimage_2 {
+
+    margin: 0px 0px 0px 0px;
+
+    width: 100%;
+
+    height: auto;
+
+    display: block;
+
+}
+
+/* mobilegrid_13 */
+
+.belleIslePage_mobilegrid_13 {
+
+    height: auto;
+
+    width: 100%;
+
+    margin: 4px 0px 4px 0px;
+
+    border-collapse: collapse;
+
+    table-layout: fixed;
+
+}
+
+.belleIslePage_mobilegrid_13 > tr > td {
+
+    vertical-align: top;
+
+}
+
+.belleIslePage_mobilegrid_13_row_0, .belleIslePage_mobilegrid_13_row_0 > td {
+
+    height: 30px
+
+}
+
+/* mobilegridcell_14 */
+
+.belleIslePage_mobilegridcell_14 {
+
+    height:30px !important;
+
+    width:230px;
+
+    padding: 0px 0px 0px 0px;
+
+}
+
+.belleIslePage_mobilegridcell_14 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* belleIsleLabel */
+
+.belleIslePage_belleIsleLabel {
+
+    text-decoration: none;
+
+    font-weight: normal;
+
+    text-align: left;
+
+    font-family: Helvetica;
+
+    font-size: 16px;
+
+    margin: 0px 0px 0px 4px;
+
+    word-wrap: break-word;
+
+}
+
+/* mobilegridcell_15 */
+
+.belleIslePage_mobilegridcell_15 {
+
+    height:30px !important;
+
+    width:auto;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.belleIslePage_mobilegridcell_15 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* belleIaleBackButton */
+
+#belleIslePage_belleIaleBackButton {
+
+}
+
+.ui-btn.belleIslePage_belleIaleBackButton {
+
+    margin: 0px 0px 0px 10px;
+
+}
+
+/* mobilefooter1 */
+
+.belleIslePage_mobilefooter1 {
+
+    min-height:38px;
+
+}
+
+/* mobilenavbar_3 */
+
+.belleIslePage_mobilenavbar_3 {
+
+}
+
+.belleIslePage_mobilenavbar_3 .ui-grid-a .ui-block-a {
+
+    clear:none;
+
+}
+
+.ui-footer .belleIslePage_mobilenavbar_3 ul li:last-child a {
+
+    margin-right: 1px !important;
+
+}
+
+.ui-header .belleIslePage_mobilenavbar_3 ul li:last-child a {
+
+    margin-right: -1px !important;
+
+}
+
+.belleIslePage_mobilenavbar_3 ul.ui-grid-duo li:nth-child(even) a {
+
+    margin-right: 1px !important;
+
+}
+
+/* mobilenavbar_7 */
+
+.belleIslePage_mobilenavbar_7 {
+
+}
+
+.belleIslePage_mobilenavbar_7 .ui-grid-a .ui-block-a {
+
+    clear:none;
+
+}
+
+.ui-footer .belleIslePage_mobilenavbar_7 ul li:last-child a {
+
+    margin-right: 1px !important;
+
+}
+
+.ui-header .belleIslePage_mobilenavbar_7 ul li:last-child a {
+
+    margin-right: -1px !important;
+
+}
+
+.belleIslePage_mobilenavbar_7 ul.ui-grid-duo li:nth-child(even) a {
+
+    margin-right: 1px !important;
+
+}
+
+/*
+* CSS for instrumentsPage generated by Exadel Appery
+*/
+
+/* mobilecontainer1 */
+
+.ui-content.instrumentsPage_mobilecontainer1 {
+
+    padding: 0px 0px 0px 0px;
+
+    height: 100%;
+
+    background-color: #000000;
+
+}
+
+/* mobileimage_2 */
+
+.instrumentsPage_mobileimage_2 {
+
+    margin: 0px 0px 0px 0px;
+
+    width: 100%;
+
+    height: auto;
+
+    display: block;
+
+}
+
+/* mobilegrid_13 */
+
+.instrumentsPage_mobilegrid_13 {
+
+    height: auto;
+
+    width:100%;
+
+    margin: 4px 0px 4px 0px;
+
+    border-collapse: collapse;
+
+    table-layout: fixed;
+
+}
+
+.instrumentsPage_mobilegrid_13 > tr > td {
+
+    vertical-align: top;
+
+}
+
+.instrumentsPage_mobilegrid_13_row_0, .instrumentsPage_mobilegrid_13_row_0 > td {
+
+    height: 30px
+
+}
+
+/* mobilegridcell_14 */
+
+.instrumentsPage_mobilegridcell_14 {
+
+    height: auto !important;
+
+    width: 100%;
+
+    padding: 0px 0px 0px 0px;
+
+}
+
+.instrumentsPage_mobilegridcell_14 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* instrumentsLabel */
+
+.instrumentsPage_instrumentsLabel {
+
+    text-decoration: none;
+
+    font-weight: normal;
+
+    text-align: left;
+
+    font-family: Helvetica;
+
+    font-size: 16px;
+
+    margin: 0px 0px 0px 4px;
+
+    word-wrap: break-word;
+
+}
+
+/* mobilegridcell_15 */
+
+.instrumentsPage_mobilegridcell_15 {
+
+    height:30px !important;
+
+    width:auto;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.instrumentsPage_mobilegridcell_15 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* instrumenrsBackButton */
+
+#instrumentsPage_instrumenrsBackButton {
+
+}
+
+.ui-btn.instrumentsPage_instrumenrsBackButton {
+
+    margin: 0px 0px 0px 10px;
+
+}
+
+/* mobilelabel_26 */
+
+.instrumentsPage_mobilelabel_26 {
+
+    text-decoration: none;
+
+    font-weight: normal;
+
+    text-align: justify;
+
+    font-family: Helvetica;
+
+    font-size: 15px;
+
+    margin: 10px 4px 0px 4px;
+
+    word-wrap: break-word;
+
+}
+
+/* mobilelabel_27 */
+
+.instrumentsPage_mobilelabel_27 {
+
+    text-decoration: none;
+
+    font-weight: normal;
+
+    text-align: justify;
+
+    font-family: Helvetica;
+
+    font-size: 15px;
+
+    margin: 10px 4px 0px 4px;
+
+    word-wrap: break-word;
+
+}
+
+/* mobilelabel_28 */
+
+.instrumentsPage_mobilelabel_28 {
+
+    text-decoration: none;
+
+    font-weight: normal;
+
+    text-align: justify;
+
+    font-family: Helvetica;
+
+    font-size: 15px;
+
+    margin: 10px 4px 0px 4px;
+
+    word-wrap: break-word;
+
+}
+
+/* mobilegrid_21 */
+
+.instrumentsPage_mobilegrid_21 {
+
+    height: auto;
+
+    width:100%;
+
+    margin: 4px 0px 4px 0px;
+
+    border-collapse: collapse;
+
+    table-layout: fixed;
+
+}
+
+.instrumentsPage_mobilegrid_21 > tr > td {
+
+    vertical-align: top;
+
+}
+
+.instrumentsPage_mobilegrid_21_row_0, .instrumentsPage_mobilegrid_21_row_0 > td {
+
+    height: 30px
+
+}
+
+/* mobilegridcell_22 */
+
+.instrumentsPage_mobilegridcell_22 {
+
+    height:30px !important;
+
+    width:200px;
+
+    padding: 0px 0px 0px 0px;
+
+}
+
+.instrumentsPage_mobilegridcell_22 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* html_29 */
+
+.instrumentsPage_html_29 {
+
+    margin: 10px 4px 0px 4px;
+
+    font-weight: normal;
+
+    width: 190px;
+
+    height: 200px;
+
+}
+
+div.instrumentsPage_html_29 {
+
+    overflow: auto;
+
+}
+
+/* mobilegridcell_23 */
+
+.instrumentsPage_mobilegridcell_23 {
+
+    height:30px !important;
+
+    width:auto;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.instrumentsPage_mobilegridcell_23 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* mobileimage_30 */
+
+.instrumentsPage_mobileimage_30 {
+
+    margin: 4px 0px 4px 0px;
+
+    width: 100%;
+
+    height: auto;
+
+    display: block;
+
+}
+
+/* mobilefooter1 */
+
+.instrumentsPage_mobilefooter1 {
+
+    min-height:38px;
+
+}
+
+/* mobilenavbar_3 */
+
+.instrumentsPage_mobilenavbar_3 {
+
+}
+
+.instrumentsPage_mobilenavbar_3 .ui-grid-a .ui-block-a {
+
+    clear:none;
+
+}
+
+.ui-footer .instrumentsPage_mobilenavbar_3 ul li:last-child a {
+
+    margin-right: 1px !important;
+
+}
+
+.ui-header .instrumentsPage_mobilenavbar_3 ul li:last-child a {
+
+    margin-right: -1px !important;
+
+}
+
+.instrumentsPage_mobilenavbar_3 ul.ui-grid-duo li:nth-child(even) a {
+
+    margin-right: 1px !important;
+
+}
+
+/* mobilenavbar_7 */
+
+.instrumentsPage_mobilenavbar_7 {
+
+}
+
+.instrumentsPage_mobilenavbar_7 .ui-grid-a .ui-block-a {
+
+    clear:none;
+
+}
+
+.ui-footer .instrumentsPage_mobilenavbar_7 ul li:last-child a {
+
+    margin-right: 1px !important;
+
+}
+
+.ui-header .instrumentsPage_mobilenavbar_7 ul li:last-child a {
+
+    margin-right: -1px !important;
+
+}
+
+.instrumentsPage_mobilenavbar_7 ul.ui-grid-duo li:nth-child(even) a {
+
+    margin-right: 1px !important;
+
+}
+
+/*
+* CSS for exbritPage generated by Exadel Appery
+*/
+
+/* mobilecontainer1 */
+
+.ui-content.exbritPage_mobilecontainer1 {
+
+    padding: 0px 0px 0px 0px;
+
+    height: 100%;
+
+    background-color: #000000;
+
+}
+
+/* mobileimage_2 */
+
+.exbritPage_mobileimage_2 {
+
+    margin: 0px 0px 0px 0px;
+
+    width: 100%;
+
+    height: auto;
+
+    display: block;
+
+}
+
+/* mobilegrid_14 */
+
+.exbritPage_mobilegrid_14 {
+
+    height: auto;
+
+    width:100%;
+
+    margin: 4px 0px 4px 0px;
+
+    border-collapse: collapse;
+
+    table-layout: fixed;
+
+}
+
+.exbritPage_mobilegrid_14 > tr > td {
+
+    vertical-align: top;
+
+}
+
+.exbritPage_mobilegrid_14_row_0, .exbritPage_mobilegrid_14_row_0 > td {
+
+    height: 30px
+
+}
+
+/* mobilegridcell_15 */
+
+.exbritPage_mobilegridcell_15 {
+
+    height: auto !important;
+
+    width: 100%;
+
+    padding: 0px 0px 0px 0px;
+
+}
+
+.exbritPage_mobilegridcell_15 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* exbritLabel */
+
+.exbritPage_exbritLabel {
+
+    text-decoration: none;
+
+    font-weight: normal;
+
+    text-align: left;
+
+    font-family: Helvetica;
+
+    font-size: 16px;
+
+    margin: 0px 0px 0px 4px;
+
+    word-wrap: break-word;
+
+}
+
+/* mobilegridcell_16 */
+
+.exbritPage_mobilegridcell_16 {
+
+    height: auto !important;
+
+    width: 100%;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.exbritPage_mobilegridcell_16 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* exbritBackButton */
+
+#exbritPage_exbritBackButton {
+
+}
+
+.ui-btn.exbritPage_exbritBackButton {
+
+    margin: 0px 0px 0px 10px;
+
+}
+
+/* mobilefooter1 */
+
+.exbritPage_mobilefooter1 {
+
+    min-height:38px;
+
+}
+
+/* mobilenavbar_3 */
+
+.exbritPage_mobilenavbar_3 {
+
+}
+
+.exbritPage_mobilenavbar_3 .ui-grid-a .ui-block-a {
+
+    clear:none;
+
+}
+
+.ui-footer .exbritPage_mobilenavbar_3 ul li:last-child a {
+
+    margin-right: 1px !important;
+
+}
+
+.ui-header .exbritPage_mobilenavbar_3 ul li:last-child a {
+
+    margin-right: -1px !important;
+
+}
+
+.exbritPage_mobilenavbar_3 ul.ui-grid-duo li:nth-child(even) a {
+
+    margin-right: 1px !important;
+
+}
+
+/* mobilenavbar_7 */
+
+.exbritPage_mobilenavbar_7 {
+
+}
+
+.exbritPage_mobilenavbar_7 .ui-grid-a .ui-block-a {
+
+    clear:none;
+
+}
+
+.ui-footer .exbritPage_mobilenavbar_7 ul li:last-child a {
+
+    margin-right: 1px !important;
+
+}
+
+.ui-header .exbritPage_mobilenavbar_7 ul li:last-child a {
+
+    margin-right: -1px !important;
+
+}
+
+.exbritPage_mobilenavbar_7 ul.ui-grid-duo li:nth-child(even) a {
+
+    margin-right: 1px !important;
+
+}
+
+/*
+* CSS for dwbPage generated by Exadel Appery
+*/
+
+/* mobilecontainer1 */
+
+.ui-content.dwbPage_mobilecontainer1 {
+
+    padding: 0px 0px 0px 0px;
+
+    height: 100%;
+
+    background-color: #000000;
+
+}
+
+/* mobileimage_2 */
+
+.dwbPage_mobileimage_2 {
+
+    margin: 0px 0px 0px 0px;
+
+    width: 100%;
+
+    height: auto;
+
+    display: block;
+
+}
+
+/* mobilegrid_13 */
+
+.dwbPage_mobilegrid_13 {
+
+    height: auto;
+
+    width:100%;
+
+    margin: 4px 0px 4px 0px;
+
+    border-collapse: collapse;
+
+    table-layout: fixed;
+
+}
+
+.dwbPage_mobilegrid_13 > tr > td {
+
+    vertical-align: top;
+
+}
+
+.dwbPage_mobilegrid_13_row_0, .dwbPage_mobilegrid_13_row_0 > td {
+
+    height: 30px
+
+}
+
+/* mobilegridcell_14 */
+
+.dwbPage_mobilegridcell_14 {
+
+    height: auto !important;
+
+    width: 100%;
+
+    padding: 0px 0px 0px 0px;
+
+}
+
+.dwbPage_mobilegridcell_14 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* dwbLabel */
+
+.dwbPage_dwbLabel {
+
+    text-decoration: none;
+
+    font-weight: normal;
+
+    text-align: left;
+
+    font-family: Helvetica;
+
+    font-size: 16px;
+
+    margin: 0px 0px 0px 4px;
+
+    word-wrap: break-word;
+
+}
+
+/* mobilegridcell_15 */
+
+.dwbPage_mobilegridcell_15 {
+
+    height: auto !important;
+
+    width: 100%;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.dwbPage_mobilegridcell_15 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* dwbBiographyBackButton */
+
+#dwbPage_dwbBiographyBackButton {
+
+}
+
+.ui-btn.dwbPage_dwbBiographyBackButton {
+
+    margin: 0px 0px 0px 10px;
+
+}
+
+/* mobilegrid_18 */
+
+.dwbPage_mobilegrid_18 {
+
+    height: auto;
+
+    width:100%;
+
+    margin: 4px 0px 4px 0px;
+
+    border-collapse: collapse;
+
+    table-layout: fixed;
+
+}
+
+.dwbPage_mobilegrid_18 > tr > td {
+
+    vertical-align: top;
+
+}
+
+.dwbPage_mobilegrid_18_row_0, .dwbPage_mobilegrid_18_row_0 > td {
+
+    height: 30px
+
+}
+
+/* mobilegridcell_19 */
+
+.dwbPage_mobilegridcell_19 {
+
+    height:30px !important;
+
+    width:95px;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.dwbPage_mobilegridcell_19 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* dwbBiographyButton */
+
+#dwbPage_dwbBiographyButton {
+
+}
+
+.ui-btn.dwbPage_dwbBiographyButton {
+
+    margin: 4px 0px 0px 4px;
+
+}
+
+/* mobilegridcell_20 */
+
+.dwbPage_mobilegridcell_20 {
+
+    height:30px !important;
+
+    width:110px;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.dwbPage_mobilegridcell_20 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* dwbDiscographyButton */
+
+#dwbPage_dwbDiscographyButton {
+
+}
+
+.ui-btn.dwbPage_dwbDiscographyButton {
+
+    margin: 4px 0px 0px 5px;
+
+}
+
+/* mobilegridcell_26 */
+
+.dwbPage_mobilegridcell_26 {
+
+    height:30px !important;
+
+    width:110px;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.dwbPage_mobilegridcell_26 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* dwbVideographyButton */
+
+#dwbPage_dwbVideographyButton {
+
+}
+
+.ui-btn.dwbPage_dwbVideographyButton {
+
+    margin: 4px 0px 0px 4px;
+
+}
+
+/* mobilefooter1 */
+
+.dwbPage_mobilefooter1 {
+
+    min-height:38px;
+
+}
+
+/* mobilenavbar_3 */
+
+.dwbPage_mobilenavbar_3 {
+
+}
+
+.dwbPage_mobilenavbar_3 .ui-grid-a .ui-block-a {
+
+    clear:none;
+
+}
+
+.ui-footer .dwbPage_mobilenavbar_3 ul li:last-child a {
+
+    margin-right: 1px !important;
+
+}
+
+.ui-header .dwbPage_mobilenavbar_3 ul li:last-child a {
+
+    margin-right: -1px !important;
+
+}
+
+.dwbPage_mobilenavbar_3 ul.ui-grid-duo li:nth-child(even) a {
+
+    margin-right: 1px !important;
+
+}
+
+/* mobilenavbar_7 */
+
+.dwbPage_mobilenavbar_7 {
+
+}
+
+.dwbPage_mobilenavbar_7 .ui-grid-a .ui-block-a {
+
+    clear:none;
+
+}
+
+.ui-footer .dwbPage_mobilenavbar_7 ul li:last-child a {
+
+    margin-right: 1px !important;
+
+}
+
+.ui-header .dwbPage_mobilenavbar_7 ul li:last-child a {
+
+    margin-right: -1px !important;
+
+}
+
+.dwbPage_mobilenavbar_7 ul.ui-grid-duo li:nth-child(even) a {
+
+    margin-right: 1px !important;
+
+}
+
+/*
+* CSS for jadePage generated by Exadel Appery
+*/
+
+/* mobilecontainer1 */
+
+.ui-content.jadePage_mobilecontainer1 {
+
+    padding: 0px 0px 0px 0px;
+
+    height: 100%;
+
+    background-color: #000000;
+
+}
+
+/* mobileimage_2 */
+
+.jadePage_mobileimage_2 {
+
+    margin: 0px 0px 0px 0px;
+
+    width: 100%;
+
+    height: auto;
+
+    display: block;
+
+}
+
+/* mobilegrid_13 */
+
+.jadePage_mobilegrid_13 {
+
+    height: auto;
+
+    width:100%;
+
+    margin: 4px 0px 4px 0px;
+
+    border-collapse: collapse;
+
+    table-layout: fixed;
+
+}
+
+.jadePage_mobilegrid_13 > tr > td {
+
+    vertical-align: top;
+
+}
+
+.jadePage_mobilegrid_13_row_0, .jadePage_mobilegrid_13_row_0 > td {
+
+    height: auto;
+
+}
+
+/* mobilegridcell_14 */
+
+.jadePage_mobilegridcell_14 {
+
+    height: auto !important;
+
+    width: 100%;
+
+    padding: 0px 0px 0px 0px;
+
+}
+
+.jadePage_mobilegridcell_14 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* jadeLabel */
+
+.jadePage_jadeLabel {
+
+    text-decoration: none;
+
+    font-weight: normal;
+
+    text-align: left;
+
+    font-family: Helvetica;
+
+    font-size: 16px;
+
+    margin: 0px 0px 0px 4px;
+
+    word-wrap: break-word;
+
+}
+
+/* mobilegridcell_15 */
+
+.jadePage_mobilegridcell_15 {
+
+    height: auto !important;
+
+    width 100%;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.jadePage_mobilegridcell_15 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* jadeBackButtom */
+
+#jadePage_jadeBackButtom {
+
+}
+
+.ui-btn.jadePage_jadeBackButtom {
+
+    margin: 0px 0px 0px 10px;
+
+}
+
+/* mobilegrid_18 */
+
+.jadePage_mobilegrid_18 {
+
+    height: auto;
+
+    width:100%;
+
+    margin: 4px 0px 4px 0px;
+
+    border-collapse: collapse;
+
+    table-layout: fixed;
+
+}
+
+.jadePage_mobilegrid_18 > tr > td {
+
+    vertical-align: top;
+
+}
+
+.jadePage_mobilegrid_18_row_0, .jadePage_mobilegrid_18_row_0 > td {
+
+    height: 30px
+
+}
+
+/* mobilegridcell_19 */
+
+.jadePage_mobilegridcell_19 {
+
+    height:30px !important;
+
+    width:95px;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.jadePage_mobilegridcell_19 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* jadeBiographyButton */
+
+#jadePage_jadeBiographyButton {
+
+}
+
+.ui-btn.jadePage_jadeBiographyButton {
+
+    margin: 4px 0px 0px 4px;
+
+}
+
+/* mobilegridcell_20 */
+
+.jadePage_mobilegridcell_20 {
+
+    height:30px !important;
+
+    width:110px;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.jadePage_mobilegridcell_20 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* jadeDiscographyButton */
+
+#jadePage_jadeDiscographyButton {
+
+}
+
+.ui-btn.jadePage_jadeDiscographyButton {
+
+    margin: 4px 0px 0px 5px;
+
+}
+
+/* mobilegridcell_24 */
+
+.jadePage_mobilegridcell_24 {
+
+    height:30px !important;
+
+    width:110px;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.jadePage_mobilegridcell_24 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* jadeVideographyButton */
+
+#jadePage_jadeVideographyButton {
+
+}
+
+.ui-btn.jadePage_jadeVideographyButton {
+
+    margin: 4px 0px 0px 4px;
+
+}
+
+/* mobilefooter1 */
+
+.jadePage_mobilefooter1 {
+
+    min-height:38px;
+
+}
+
+/* mobilenavbar_3 */
+
+.jadePage_mobilenavbar_3 {
+
+}
+
+.jadePage_mobilenavbar_3 .ui-grid-a .ui-block-a {
+
+    clear:none;
+
+}
+
+.ui-footer .jadePage_mobilenavbar_3 ul li:last-child a {
+
+    margin-right: 1px !important;
+
+}
+
+.ui-header .jadePage_mobilenavbar_3 ul li:last-child a {
+
+    margin-right: -1px !important;
+
+}
+
+.jadePage_mobilenavbar_3 ul.ui-grid-duo li:nth-child(even) a {
+
+    margin-right: 1px !important;
+
+}
+
+/* mobilenavbar_7 */
+
+.jadePage_mobilenavbar_7 {
+
+}
+
+.jadePage_mobilenavbar_7 .ui-grid-a .ui-block-a {
+
+    clear:none;
+
+}
+
+.ui-footer .jadePage_mobilenavbar_7 ul li:last-child a {
+
+    margin-right: 1px !important;
+
+}
+
+.ui-header .jadePage_mobilenavbar_7 ul li:last-child a {
+
+    margin-right: -1px !important;
+
+}
+
+.jadePage_mobilenavbar_7 ul.ui-grid-duo li:nth-child(even) a {
+
+    margin-right: 1px !important;
+
+}
+
+/*
+* CSS for contactPage generated by Exadel Appery
+*/
+
+/* mobilecontainer1 */
+
+.ui-content.contactPage_mobilecontainer1 {
+
+    padding: 0px 0px 0px 0px;
+
+    height: 100%;
+
+    background-color: #000000;
+
+}
+
+/* mobileimage_2 */
+
+.contactPage_mobileimage_2 {
+
+    margin: 0px 0px 0px 0px;
+
+    width: 100%;
+
+    height: auto;
+
+    display: block;
+
+}
+
+/* contactLabel */
+
+.contactPage_contactLabel {
+
+    text-decoration: none;
+
+    font-weight: normal;
+
+    text-align: left;
+
+    font-family: Helvetica;
+
+    font-size: 14px;
+
+    margin: 10px 4px 0px 4px;
+
+    word-wrap: break-word;
+
+}
+
+/* mobilefooter1 */
+
+.contactPage_mobilefooter1 {
+
+    min-height:38px;
+
+}
+
+/* mobilenavbar_3 */
+
+.contactPage_mobilenavbar_3 {
+
+}
+
+.contactPage_mobilenavbar_3 .ui-grid-a .ui-block-a {
+
+    clear:none;
+
+}
+
+.ui-footer .contactPage_mobilenavbar_3 ul li:last-child a {
+
+    margin-right: 1px !important;
+
+}
+
+.ui-header .contactPage_mobilenavbar_3 ul li:last-child a {
+
+    margin-right: -1px !important;
+
+}
+
+.contactPage_mobilenavbar_3 ul.ui-grid-duo li:nth-child(even) a {
+
+    margin-right: 1px !important;
+
+}
+
+/* mobilenavbar_7 */
+
+.contactPage_mobilenavbar_7 {
+
+}
+
+.contactPage_mobilenavbar_7 .ui-grid-a .ui-block-a {
+
+    clear:none;
+
+}
+
+.ui-footer .contactPage_mobilenavbar_7 ul li:last-child a {
+
+    margin-right: 1px !important;
+
+}
+
+.ui-header .contactPage_mobilenavbar_7 ul li:last-child a {
+
+    margin-right: -1px !important;
+
+}
+
+.contactPage_mobilenavbar_7 ul.ui-grid-duo li:nth-child(even) a {
+
+    margin-right: 1px !important;
+
+}
+
+/*
+* CSS for dwbVideography generated by Exadel Appery
+*/
+
+/* mobilecontainer1 */
+
+.ui-content.dwbVideography_mobilecontainer1 {
+
+    padding: 0px 0px 0px 0px;
+
+    height: 100%;
+
+    background-color: #000000;
+
+}
+
+/* mobileimage_2 */
+
+.dwbVideography_mobileimage_2 {
+
+    margin: 0px 0px 0px 0px;
+
+    width: 100%;
+
+    height: auto;
+
+    display: block;
+
+}
+
+/* mobilegrid_13 */
+
+.dwbVideography_mobilegrid_13 {
+
+    height: auto;
+
+    width:100%;
+
+    margin: 4px 0px 4px 0px;
+
+    border-collapse: collapse;
+
+    table-layout: fixed;
+
+}
+
+.dwbVideography_mobilegrid_13 > tr > td {
+
+    vertical-align: top;
+
+}
+
+.dwbVideography_mobilegrid_13_row_0, .dwbVideography_mobilegrid_13_row_0 > td {
+
+    height: 30px
+
+}
+
+/* mobilegridcell_14 */
+
+.dwbVideography_mobilegridcell_14 {
+
+    height: auto !important;
+
+    width: 100%;
+
+    padding: 0px 0px 0px 0px;
+
+}
+
+.dwbVideography_mobilegridcell_14 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* dwbVideographyLabel */
+
+.dwbVideography_dwbVideographyLabel {
+
+    text-decoration: none;
+
+    font-weight: normal;
+
+    text-align: left;
+
+    font-family: Helvetica;
+
+    font-size: 16px;
+
+    margin: 0px 0px 0px 4px;
+
+    word-wrap: break-word;
+
+}
+
+/* mobilegridcell_15 */
+
+.dwbVideography_mobilegridcell_15 {
+
+    height:30px !important;
+
+    width:auto;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.dwbVideography_mobilegridcell_15 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* dwbVideographyBackButon */
+
+#dwbVideography_dwbVideographyBackButon {
+
+}
+
+.ui-btn.dwbVideography_dwbVideographyBackButon {
+
+    margin: 0px 0px 0px 10px;
+
+}
+
+/* mobilegrid_18 */
+
+.dwbVideography_mobilegrid_18 {
+
+    height: auto;
+
+    width:100%;
+
+    margin: 4px 0px 4px 0px;
+
+    border-collapse: collapse;
+
+    table-layout: fixed;
+
+}
+
+.dwbVideography_mobilegrid_18 > tr > td {
+
+    vertical-align: top;
+
+}
+
+.dwbVideography_mobilegrid_18_row_0, .dwbVideography_mobilegrid_18_row_0 > td {
+
+    height: 30px
+
+}
+
+/* mobilegridcell_19 */
+
+.dwbVideography_mobilegridcell_19 {
+
+    height: auto !important;
+
+    width: 100%;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.dwbVideography_mobilegridcell_19 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* dwbBiographyButton */
+
+#dwbVideography_dwbBiographyButton {
+
+}
+
+.ui-btn.dwbVideography_dwbBiographyButton {
+
+    margin: 4px 0px 0px 4px;
+
+}
+
+/* mobilegridcell_20 */
+
+.dwbVideography_mobilegridcell_20 {
+
+    height: auto !important;
+
+    width: 100%;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.dwbVideography_mobilegridcell_20 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* dwbDiscographyButton */
+
+#dwbVideography_dwbDiscographyButton {
+
+}
+
+.ui-btn.dwbVideography_dwbDiscographyButton {
+
+    margin: 4px 0px 0px 4px;
+
+}
+
+/* mobilegridcell_23 */
+
+.dwbVideography_mobilegridcell_23 {
+
+    height: auto !important;
+
+    width: 100%;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.dwbVideography_mobilegridcell_23 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* dwbVideographyButton */
+
+#dwbVideography_dwbVideographyButton {
+
+}
+
+.ui-btn.dwbVideography_dwbVideographyButton {
+
+    margin: 4px 0px 0px 0px;
+
+}
+
+/* mobilefooter1 */
+
+.dwbVideography_mobilefooter1 {
+
+    min-height:38px;
+
+}
+
+/* mobilenavbar_3 */
+
+.dwbVideography_mobilenavbar_3 {
+
+}
+
+.dwbVideography_mobilenavbar_3 .ui-grid-a .ui-block-a {
+
+    clear:none;
+
+}
+
+.ui-footer .dwbVideography_mobilenavbar_3 ul li:last-child a {
+
+    margin-right: 1px !important;
+
+}
+
+.ui-header .dwbVideography_mobilenavbar_3 ul li:last-child a {
+
+    margin-right: -1px !important;
+
+}
+
+.dwbVideography_mobilenavbar_3 ul.ui-grid-duo li:nth-child(even) a {
+
+    margin-right: 1px !important;
+
+}
+
+/* mobilenavbar_7 */
+
+.dwbVideography_mobilenavbar_7 {
+
+}
+
+.dwbVideography_mobilenavbar_7 .ui-grid-a .ui-block-a {
+
+    clear:none;
+
+}
+
+.ui-footer .dwbVideography_mobilenavbar_7 ul li:last-child a {
+
+    margin-right: 1px !important;
+
+}
+
+.ui-header .dwbVideography_mobilenavbar_7 ul li:last-child a {
+
+    margin-right: -1px !important;
+
+}
+
+.dwbVideography_mobilenavbar_7 ul.ui-grid-duo li:nth-child(even) a {
+
+    margin-right: 1px !important;
+
+}
+
+/*
+* CSS for valannPage generated by Exadel Appery
+*/
+
+/* mobilecontainer1 */
+
+.ui-content.valannPage_mobilecontainer1 {
+
+    padding: 0px 0px 0px 0px;
+
+    height: 100%;
+
+    background-color: #000000;
+
+}
+
+/* mobileimage_2 */
+
+.valannPage_mobileimage_2 {
+
+    margin: 0px 0px 0px 0px;
+
+    width: 100%;
+
+    height: auto;
+
+    display: block;
+
+}
+
+/* mobilegrid_13 */
+
+.valannPage_mobilegrid_13 {
+
+    height: auto;
+
+    width:100%;
+
+    margin: 4px 0px 4px 0px;
+
+    border-collapse: collapse;
+
+    table-layout: fixed;
+
+}
+
+.valannPage_mobilegrid_13 > tr > td {
+
+    vertical-align: top;
+
+}
+
+.valannPage_mobilegrid_13_row_0, .valannPage_mobilegrid_13_row_0 > td {
+
+    height: 30px
+
+}
+
+/* mobilegridcell_14 */
+
+.valannPage_mobilegridcell_14 {
+
+    height: auto !important;
+
+    width: 100%;
+
+    padding: 0px 0px 0px 0px;
+
+}
+
+.valannPage_mobilegridcell_14 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* valannBiographyLabel */
+
+.valannPage_valannBiographyLabel {
+
+    text-decoration: none;
+
+    font-weight: normal;
+
+    text-align: left;
+
+    font-family: Helvetica;
+
+    font-size: 16px;
+
+    margin: 0px 0px 0px 4px;
+
+    word-wrap: break-word;
+
+}
+
+/* mobilegridcell_15 */
+
+.valannPage_mobilegridcell_15 {
+
+    height: auto !important;
+
+    width: 100%;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.valannPage_mobilegridcell_15 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* valannBiographyBackButton */
+
+#valannPage_valannBiographyBackButton {
+
+}
+
+.ui-btn.valannPage_valannBiographyBackButton {
+
+    margin: 0px 0px 0px 10px;
+
+}
+
+/* mobilegrid_18 */
+
+.valannPage_mobilegrid_18 {
+
+    height: auto;
+
+    width:100%;
+
+    margin: 4px 0px 4px 0px;
+
+    border-collapse: collapse;
+
+    table-layout: fixed;
+
+}
+
+.valannPage_mobilegrid_18 > tr > td {
+
+    vertical-align: top;
+
+}
+
+.valannPage_mobilegrid_18_row_0, .valannPage_mobilegrid_18_row_0 > td {
+
+    height: auto
+
+}
+
+/* mobilegridcell_19 */
+
+.valannPage_mobilegridcell_19 {
+
+    height: auto !important;
+
+    width: 100%;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.valannPage_mobilegridcell_19 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* valannBiographyButton */
+
+#valannPage_valannBiographyButton {
+
+}
+
+.ui-btn.valannPage_valannBiographyButton {
+
+    margin: 4px 0px 0px 0px;
+
+}
+
+/* mobilegridcell_20 */
+
+.valannPage_mobilegridcell_20 {
+
+    height:auto !important;
+
+    width: 100%;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.valannPage_mobilegridcell_20 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* valannDiscography */
+
+#valannPage_valannDiscography {
+
+}
+
+.ui-btn.valannPage_valannDiscography {
+
+    margin: 4px 0px 0px 0px;
+
+}
+
+/* mobilegridcell_23 */
+
+.valannPage_mobilegridcell_23 {
+
+    height: auto !important;
+
+    width: 100%;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.valannPage_mobilegridcell_23 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* valannVideographyButton */
+
+#valannPage_valannVideographyButton {
+
+}
+
+.ui-btn.valannPage_valannVideographyButton {
+
+    margin: 4px 0px 0px 0px;
+
+}
+
+/* mobilefooter1 */
+
+.valannPage_mobilefooter1 {
+
+    min-height:38px;
+
+}
+
+/* mobilenavbar_3 */
+
+.valannPage_mobilenavbar_3 {
+
+}
+
+.valannPage_mobilenavbar_3 .ui-grid-a .ui-block-a {
+
+    clear:none;
+
+}
+
+.ui-footer .valannPage_mobilenavbar_3 ul li:last-child a {
+
+    margin-right: 1px !important;
+
+}
+
+.ui-header .valannPage_mobilenavbar_3 ul li:last-child a {
+
+    margin-right: -1px !important;
+
+}
+
+.valannPage_mobilenavbar_3 ul.ui-grid-duo li:nth-child(even) a {
+
+    margin-right: 1px !important;
+
+}
+
+/* mobilenavbar_7 */
+
+.valannPage_mobilenavbar_7 {
+
+}
+
+.valannPage_mobilenavbar_7 .ui-grid-a .ui-block-a {
+
+    clear:none;
+
+}
+
+.ui-footer .valannPage_mobilenavbar_7 ul li:last-child a {
+
+    margin-right: 1px !important;
+
+}
+
+.ui-header .valannPage_mobilenavbar_7 ul li:last-child a {
+
+    margin-right: -1px !important;
+
+}
+
+.valannPage_mobilenavbar_7 ul.ui-grid-duo li:nth-child(even) a {
+
+    margin-right: 1px !important;
+
+}
+
+/*
+* CSS for jadeVideography generated by Exadel Appery
+*/
+
+/* mobilecontainer1 */
+
+.ui-content.jadeVideography_mobilecontainer1 {
+
+    padding: 0px 0px 0px 0px;
+
+    height: 100%;
+
+    background-color: #000000
+
+}
+
+/* mobileimage_2 */
+
+.jadeVideography_mobileimage_2 {
+
+    margin: 0px 0px 0px 0px;
+
+    width: 100%;
+
+    height: auto;
+
+    display: block;
+
+}
+
+/* mobilegrid_13 */
+
+.jadeVideography_mobilegrid_13 {
+
+    height: auto;
+
+    width:100%;
+
+    margin: 4px 0px 4px 0px;
+
+    border-collapse: collapse;
+
+    table-layout: fixed;
+
+}
+
+.jadeVideography_mobilegrid_13 > tr > td {
+
+    vertical-align: top;
+
+}
+
+.jadeVideography_mobilegrid_13_row_0, .jadeVideography_mobilegrid_13_row_0 > td {
+
+    height: 30px
+
+}
+
+/* mobilegridcell_14 */
+
+.jadeVideography_mobilegridcell_14 {
+
+    height: auto !important;
+
+    width: 100%;
+
+    padding: 0px 0px 0px 0px;
+
+}
+
+.jadeVideography_mobilegridcell_14 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* mobilelabel_24 */
+
+.jadeVideography_mobilelabel_24 {
+
+    text-decoration: none;
+
+    font-weight: normal;
+
+    text-align: left;
+
+    font-family: Helvetica;
+
+    font-size: 16px;
+
+    margin: 0px 0px 0px 4px;
+
+    word-wrap: break-word;
+
+}
+
+/* mobilegridcell_15 */
+
+.jadeVideography_mobilegridcell_15 {
+
+    height:30px !important;
+
+    width:auto;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.jadeVideography_mobilegridcell_15 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* jadeVideographyBackButton */
+
+#jadeVideography_jadeVideographyBackButton {
+
+}
+
+.ui-btn.jadeVideography_jadeVideographyBackButton {
+
+    margin: 0px 0px 0px 10px;
+
+}
+
+/* mobilegrid_18 */
+
+.jadeVideography_mobilegrid_18 {
+
+    height: auto;
+
+    width:100%;
+
+    margin: 4px 0px 4px 0px;
+
+    border-collapse: collapse;
+
+    table-layout: fixed;
+
+}
+
+.jadeVideography_mobilegrid_18 > tr > td {
+
+    vertical-align: top;
+
+}
+
+.jadeVideography_mobilegrid_18_row_0, .jadeVideography_mobilegrid_18_row_0 > td {
+
+    height: 30px
+
+}
+
+/* mobilegridcell_19 */
+
+.jadeVideography_mobilegridcell_19 {
+
+    height:30px !important;
+
+    width:95px;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.jadeVideography_mobilegridcell_19 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* jadeVideographyButton */
+
+#jadeVideography_jadeVideographyButton {
+
+}
+
+.ui-btn.jadeVideography_jadeVideographyButton {
+
+    margin: 4px 0px 0px 0px;
+
+}
+
+/* mobilegridcell_20 */
+
+.jadeVideography_mobilegridcell_20 {
+
+    height:30px !important;
+
+    width:110px;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.jadeVideography_mobilegridcell_20 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* jadeDiscographyButton */
+
+#jadeVideography_jadeDiscographyButton {
+
+}
+
+.ui-btn.jadeVideography_jadeDiscographyButton {
+
+    margin: 4px 0px 0px 2px;
+
+}
+
+/* mobilegridcell_23 */
+
+.jadeVideography_mobilegridcell_23 {
+
+    height:30px !important;
+
+    width:110px;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.jadeVideography_mobilegridcell_23 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* jadeVidegraphyButton */
+
+#jadeVideography_jadeVidegraphyButton {
+
+}
+
+.ui-btn.jadeVideography_jadeVidegraphyButton {
+
+    margin: 4px 0px 0px 0px;
+
+}
+
+/* mobilefooter1 */
+
+.jadeVideography_mobilefooter1 {
+
+    min-height:38px;
+
+}
+
+/* mobilenavbar_3 */
+
+.jadeVideography_mobilenavbar_3 {
+
+}
+
+.jadeVideography_mobilenavbar_3 .ui-grid-a .ui-block-a {
+
+    clear:none;
+
+}
+
+.ui-footer .jadeVideography_mobilenavbar_3 ul li:last-child a {
+
+    margin-right: 1px !important;
+
+}
+
+.ui-header .jadeVideography_mobilenavbar_3 ul li:last-child a {
+
+    margin-right: -1px !important;
+
+}
+
+.jadeVideography_mobilenavbar_3 ul.ui-grid-duo li:nth-child(even) a {
+
+    margin-right: 1px !important;
+
+}
+
+/* mobilenavbar_7 */
+
+.jadeVideography_mobilenavbar_7 {
+
+}
+
+.jadeVideography_mobilenavbar_7 .ui-grid-a .ui-block-a {
+
+    clear:none;
+
+}
+
+.ui-footer .jadeVideography_mobilenavbar_7 ul li:last-child a {
+
+    margin-right: 1px !important;
+
+}
+
+.ui-header .jadeVideography_mobilenavbar_7 ul li:last-child a {
+
+    margin-right: -1px !important;
+
+}
+
+.jadeVideography_mobilenavbar_7 ul.ui-grid-duo li:nth-child(even) a {
+
+    margin-right: 1px !important;
+
+}
+
+/*
+* CSS for studioPage generated by Exadel Appery
+*/
+
+/* mobilecontainer1 */
+
+.ui-content.studioPage_mobilecontainer1 {
+
+    padding: 0px 0px 0px 0px;
+
+    height: 100%;
+
+    background-color: #000000;
+
+}
+
+/* mobileimage_2 */
+
+.studioPage_mobileimage_2 {
+
+    margin: 0px 0px 0px 0px;
+
+    width: 100%;
+
+    height: auto;
+
+    display: block;
+
+}
+
+/* studioLabel */
+
+.studioPage_studioLabel {
+
+    text-decoration: none;
+
+    font-weight: normal;
+
+    text-align: left;
+
+    font-family: Helvetica;
+
+    font-size: 14px;
+
+    margin: 10px 4px 0px 4px;
+
+    word-wrap: break-word;
+
+}
+
+/* mobilegroupedbuttons_13 */
+
+.ui-controlgroup.studioPage_mobilegroupedbuttons_13 {
+
+    margin: 15px 5px 4px 5px;
+
+}
+
+.ui-controlgroup.studioPage_mobilegroupedbuttons_13 .ui-btn {
+
+    margin: 0 -1px 0 0;
+
+}
+
+/* controlRoomButton */
+
+#studioPage_controlRoomButton {
+
+}
+
+.ui-btn.studioPage_controlRoomButton {
+
+}
+
+/* instrumentsButton */
+
+#studioPage_instrumentsButton {
+
+}
+
+.ui-btn.studioPage_instrumentsButton {
+
+}
+
+/* musiciansButton */
+
+#studioPage_musiciansButton {
+
+}
+
+.ui-btn.studioPage_musiciansButton {
+
+}
+
+/* gearButton */
+
+#studioPage_gearButton {
+
+}
+
+.ui-btn.studioPage_gearButton {
+
+}
+
+/* workshopsButtton */
+
+#studioPage_workshopsButtton {
+
+}
+
+.ui-btn.studioPage_workshopsButtton {
+
+}
+
+/* belleIsleButton */
+
+#studioPage_belleIsleButton {
+
+}
+
+.ui-btn.studioPage_belleIsleButton {
+
+}
+
+/* mobilefooter1 */
+
+.studioPage_mobilefooter1 {
+
+    min-height:38px;
+
+}
+
+/* mobilenavbar_3 */
+
+.studioPage_mobilenavbar_3 {
+
+}
+
+.studioPage_mobilenavbar_3 .ui-grid-a .ui-block-a {
+
+    clear:none;
+
+}
+
+.ui-footer .studioPage_mobilenavbar_3 ul li:last-child a {
+
+    margin-right: 1px !important;
+
+}
+
+.ui-header .studioPage_mobilenavbar_3 ul li:last-child a {
+
+    margin-right: -1px !important;
+
+}
+
+.studioPage_mobilenavbar_3 ul.ui-grid-duo li:nth-child(even) a {
+
+    margin-right: 1px !important;
+
+}
+
+/* mobilenavbar_7 */
+
+.studioPage_mobilenavbar_7 {
+
+}
+
+.studioPage_mobilenavbar_7 .ui-grid-a .ui-block-a {
+
+    clear:none;
+
+}
+
+.ui-footer .studioPage_mobilenavbar_7 ul li:last-child a {
+
+    margin-right: 1px !important;
+
+}
+
+.ui-header .studioPage_mobilenavbar_7 ul li:last-child a {
+
+    margin-right: -1px !important;
+
+}
+
+.studioPage_mobilenavbar_7 ul.ui-grid-duo li:nth-child(even) a {
+
+    margin-right: 1px !important;
+
+}
+
+/*
+* CSS for jadeDiscography generated by Exadel Appery
+*/
+
+/* mobilecontainer1 */
+
+.ui-content.jadeDiscography_mobilecontainer1 {
+
+    padding: 0px 0px 0px 0px;
+
+    height: 100%;
+
+    background-color: #000000;
+
+}
+
+/* mobileimage_2 */
+
+.jadeDiscography_mobileimage_2 {
+
+    margin: 0px 0px 0px 0px;
+
+    width: 100%;
+
+    height: auto;
+
+    display: block;
+
+}
+
+/* mobilegrid_13 */
+
+.jadeDiscography_mobilegrid_13 {
+
+    height: auto;
+
+    width:100%;
+
+    margin: 4px 0px 4px 0px;
+
+    border-collapse: collapse;
+
+    table-layout: fixed;
+
+}
+
+.jadeDiscography_mobilegrid_13 > tr > td {
+
+    vertical-align: top;
+
+}
+
+.jadeDiscography_mobilegrid_13_row_0, .jadeDiscography_mobilegrid_13_row_0 > td {
+
+    height: 30px
+
+}
+
+/* mobilegridcell_14 */
+
+.jadeDiscography_mobilegridcell_14 {
+
+    height: auto !important;
+
+    width: 100%;
+
+    padding: 0px 0px 0px 0px;
+
+}
+
+.jadeDiscography_mobilegridcell_14 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* jadeDiscographyLabel */
+
+.jadeDiscography_jadeDiscographyLabel {
+
+    text-decoration: none;
+
+    font-weight: normal;
+
+    text-align: left;
+
+    font-family: Helvetica;
+
+    font-size: 16px;
+
+    margin: 0px 0px 0px 4px;
+
+    word-wrap: break-word;
+
+}
+
+/* mobilegridcell_15 */
+
+.jadeDiscography_mobilegridcell_15 {
+
+    height:30px !important;
+
+    width:auto;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.jadeDiscography_mobilegridcell_15 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* jadeDiscographyBackButton */
+
+#jadeDiscography_jadeDiscographyBackButton {
+
+}
+
+.ui-btn.jadeDiscography_jadeDiscographyBackButton {
+
+    margin: 0px 0px 0px 10px;
+
+}
+
+/* mobilegrid_18 */
+
+.jadeDiscography_mobilegrid_18 {
+
+    height: auto;
+
+    width:100%;
+
+    margin: 4px 0px 4px 0px;
+
+    border-collapse: collapse;
+
+    table-layout: fixed;
+
+}
+
+.jadeDiscography_mobilegrid_18 > tr > td {
+
+    vertical-align: top;
+
+}
+
+.jadeDiscography_mobilegrid_18_row_0, .jadeDiscography_mobilegrid_18_row_0 > td {
+
+    height: 30px
+
+}
+
+/* mobilegridcell_19 */
+
+.jadeDiscography_mobilegridcell_19 {
+
+    height:30px !important;
+
+    width:95px;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.jadeDiscography_mobilegridcell_19 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* jadeBiographyButton */
+
+#jadeDiscography_jadeBiographyButton {
+
+}
+
+.ui-btn.jadeDiscography_jadeBiographyButton {
+
+    margin: 4px 0px 0px 4px;
+
+}
+
+/* mobilegridcell_20 */
+
+.jadeDiscography_mobilegridcell_20 {
+
+    height:30px !important;
+
+    width:110px;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.jadeDiscography_mobilegridcell_20 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* jadeDiscographyButton */
+
+#jadeDiscography_jadeDiscographyButton {
+
+}
+
+.ui-btn.jadeDiscography_jadeDiscographyButton {
+
+    margin: 4px 0px 0px 5px;
+
+}
+
+/* mobilegridcell_25 */
+
+.jadeDiscography_mobilegridcell_25 {
+
+    height:30px !important;
+
+    width:110px;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.jadeDiscography_mobilegridcell_25 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* jadeVideographyButton */
+
+#jadeDiscography_jadeVideographyButton {
+
+}
+
+.ui-btn.jadeDiscography_jadeVideographyButton {
+
+    margin: 4px 0px 0px 4px;
+
+}
+
+/* mobilefooter1 */
+
+.jadeDiscography_mobilefooter1 {
+
+    min-height:38px;
+
+}
+
+/* mobilenavbar_3 */
+
+.jadeDiscography_mobilenavbar_3 {
+
+}
+
+.jadeDiscography_mobilenavbar_3 .ui-grid-a .ui-block-a {
+
+    clear:none;
+
+}
+
+.ui-footer .jadeDiscography_mobilenavbar_3 ul li:last-child a {
+
+    margin-right: 1px !important;
+
+}
+
+.ui-header .jadeDiscography_mobilenavbar_3 ul li:last-child a {
+
+    margin-right: -1px !important;
+
+}
+
+.jadeDiscography_mobilenavbar_3 ul.ui-grid-duo li:nth-child(even) a {
+
+    margin-right: 1px !important;
+
+}
+
+/* mobilenavbar_7 */
+
+.jadeDiscography_mobilenavbar_7 {
+
+}
+
+.jadeDiscography_mobilenavbar_7 .ui-grid-a .ui-block-a {
+
+    clear:none;
+
+}
+
+.ui-footer .jadeDiscography_mobilenavbar_7 ul li:last-child a {
+
+    margin-right: 1px !important;
+
+}
+
+.ui-header .jadeDiscography_mobilenavbar_7 ul li:last-child a {
+
+    margin-right: -1px !important;
+
+}
+
+.jadeDiscography_mobilenavbar_7 ul.ui-grid-duo li:nth-child(even) a {
+
+    margin-right: 1px !important;
+
+}
+
+/*
+* CSS for dwbDiscography generated by Exadel Appery
+*/
+
+/* mobilecontainer1 */
+
+.ui-content.dwbDiscography_mobilecontainer1 {
+
+    padding: 0px 0px 0px 0px;
+
+    height: 100%;
+
+    background-color: #000000;
+
+}
+
+/* mobileimage_2 */
+
+.dwbDiscography_mobileimage_2 {
+
+    margin: 0px 0px 0px 0px;
+
+    width: 100%;
+
+    height: auto;
+
+    display: block;
+
+}
+
+/* mobilegrid_13 */
+
+.dwbDiscography_mobilegrid_13 {
+
+    height: auto;
+
+    width:100%;
+
+    margin: 4px 0px 4px 0px;
+
+    border-collapse: collapse;
+
+    table-layout: fixed;
+
+}
+
+.dwbDiscography_mobilegrid_13 > tr > td {
+
+    vertical-align: top;
+
+}
+
+.dwbDiscography_mobilegrid_13_row_0, .dwbDiscography_mobilegrid_13_row_0 > td {
+
+    height: auto
+
+}
+
+/* mobilegridcell_14 */
+
+.dwbDiscography_mobilegridcell_14 {
+
+    height: auto !important;
+
+    width: 100%;
+
+    padding: 0px 0px 0px 0px;
+
+}
+
+.dwbDiscography_mobilegridcell_14 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* dwbDiscographyLabel */
+
+.dwbDiscography_dwbDiscographyLabel {
+
+    text-decoration: none;
+
+    font-weight: normal;
+
+    text-align: left;
+
+    font-family: Helvetica;
+
+    font-size: 16px;
+
+    margin: 0px 0px 0px 4px;
+
+    word-wrap: break-word;
+
+}
+
+/* mobilegridcell_15 */
+
+.dwbDiscography_mobilegridcell_15 {
+
+    height: auto !important;
+
+    width: 100%;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.dwbDiscography_mobilegridcell_15 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* dwbDiscographyBackButton */
+
+#dwbDiscography_dwbDiscographyBackButton {
+
+}
+
+.ui-btn.dwbDiscography_dwbDiscographyBackButton {
+
+    margin: 0px 0px 0px 10px;
+
+}
+
+/* mobilegrid_18 */
+
+.dwbDiscography_mobilegrid_18 {
+
+    height: auto;
+
+    width: 100%;
+
+    margin: 4px 0px 4px 0px;
+
+    border-collapse: collapse;
+
+    table-layout: fixed;
+
+}
+
+.dwbDiscography_mobilegrid_18 > tr > td {
+
+    vertical-align: top;
+
+}
+
+.dwbDiscography_mobilegrid_18_row_0, .dwbDiscography_mobilegrid_18_row_0 > td {
+
+    height: auto;
+
+}
+
+/* mobilegridcell_19 */
+
+.dwbDiscography_mobilegridcell_19 {
+
+    height:30px !important;
+
+    width:95px;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.dwbDiscography_mobilegridcell_19 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* dwbBiographyButton */
+
+#dwbDiscography_dwbBiographyButton {
+
+}
+
+.ui-btn.dwbDiscography_dwbBiographyButton {
+
+    margin: 4px 0px 0px 4px;
+
+}
+
+/* mobilegridcell_20 */
+
+.dwbDiscography_mobilegridcell_20 {
+
+    height: auto !important;
+
+    width: 100%;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.dwbDiscography_mobilegridcell_20 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* dwbDiscographyButton */
+
+#dwbDiscography_dwbDiscographyButton {
+
+}
+
+.ui-btn.dwbDiscography_dwbDiscographyButton {
+
+    margin: 4px 0px 0px 5px;
+
+}
+
+/* mobilegridcell_23 */
+
+.dwbDiscography_mobilegridcell_23 {
+
+    height: auto !important;
+
+    width: 100%;
+
+    padding: 2px 2px 2px 2px;
+
+}
+
+.dwbDiscography_mobilegridcell_23 > .cell-wrapper {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+/* dwbVideographyButton */
+
+#dwbDiscography_dwbVideographyButton {
+
+}
+
+.ui-btn.dwbDiscography_dwbVideographyButton {
+
+    margin: 4px 0px 0px 4px;
+
+}
+
+/* mobilefooter1 */
+
+.dwbDiscography_mobilefooter1 {
+
+    min-height:38px;
+
+}
+
+/* mobilenavbar_3 */
+
+.dwbDiscography_mobilenavbar_3 {
+
+}
+
+.dwbDiscography_mobilenavbar_3 .ui-grid-a .ui-block-a {
+
+    clear:none;
+
+}
+
+.ui-footer .dwbDiscography_mobilenavbar_3 ul li:last-child a {
+
+    margin-right: 1px !important;
+
+}
+
+.ui-header .dwbDiscography_mobilenavbar_3 ul li:last-child a {
+
+    margin-right: -1px !important;
+
+}
+
+.dwbDiscography_mobilenavbar_3 ul.ui-grid-duo li:nth-child(even) a {
+
+    margin-right: 1px !important;
+
+}
+
+/* mobilenavbar_7 */
+
+.dwbDiscography_mobilenavbar_7 {
+
+}
+
+.dwbDiscography_mobilenavbar_7 .ui-grid-a .ui-block-a {
+
+    clear:none;
+
+}
+
+.ui-footer .dwbDiscography_mobilenavbar_7 ul li:last-child a {
+
+    margin-right: 1px !important;
+
+}
+
+.ui-header .dwbDiscography_mobilenavbar_7 ul li:last-child a {
+
+    margin-right: -1px !important;
+
+}
+
+.dwbDiscography_mobilenavbar_7 ul.ui-grid-duo li:nth-child(even) a {
+
+    margin-right: 1px !important;
+
+}
+
+/*
+* CSS for mascotsPage generated by Exadel Appery
+*/
+
+/* mobilecontainer1 */
+
+.ui-content.mascotsPage_mobilecontainer1 {
+
+    padding: 0px 0px 0px 0px;
+
+    height: 100%;
+
+    background-color: #000000;
+
+}
+
+/* mobileimage_2 */
+
+.mascotsPage_mobileimage_2 {
+
+    margin: 0px 0px 0px 0px;
+
+    width: 100%;
+
+    height: auto;
+
+    display: block;
+
+}
+
+/* mascotsLabel */
+
+.mascotsPage_mascotsLabel {
+
+    text-decoration: none;
+
+    font-weight: normal;
+
+    text-align: left;
+
+    font-family: Helvetica;
+
+    font-size: 14px;
+
+    margin: 10px 4px 0px 4px;
+
+    word-wrap: break-word;
+
+}
+
+/* mobilefooter1 */
+
+.mascotsPage_mobilefooter1 {
+
+    min-height:38px;
+
+}
+
+/* mobilenavbar_3 */
+
+.mascotsPage_mobilenavbar_3 {
+
+}
+
+.mascotsPage_mobilenavbar_3 .ui-grid-a .ui-block-a {
+
+    clear:none;
+
+}
+
+.ui-footer .mascotsPage_mobilenavbar_3 ul li:last-child a {
+
+    margin-right: 1px !important;
+
+}
+
+.ui-header .mascotsPage_mobilenavbar_3 ul li:last-child a {
+
+    margin-right: -1px !important;
+
+}
+
+.mascotsPage_mobilenavbar_3 ul.ui-grid-duo li:nth-child(even) a {
+
+    margin-right: 1px !important;
+
+}
+
+/* mobilenavbar_7 */
+
+.mascotsPage_mobilenavbar_7 {
+
+}
+
+.mascotsPage_mobilenavbar_7 .ui-grid-a .ui-block-a {
+
+    clear:none;
+
+}
+
+.ui-footer .mascotsPage_mobilenavbar_7 ul li:last-child a {
+
+    margin-right: 1px !important;
+
+}
+
+.ui-header .mascotsPage_mobilenavbar_7 ul li:last-child a {
+
+    margin-right: -1px !important;
+
+}
+
+.mascotsPage_mobilenavbar_7 ul.ui-grid-duo li:nth-child(even) a {
+
+    margin-right: 1px !important;
+
+}
+
+/*
+* CSS for artistsPage generated by Exadel Appery
+*/
+
+/* mobilecontainer1 */
+
+.ui-content.artistsPage_mobilecontainer1 {
+
+    padding: 0px 0px 0px 0px;
+
+    height: 100%;
+
+    background-color: #000000;
+
+}
+
+/* mobileimage_2 */
+
+.artistsPage_mobileimage_2 {
+
+    margin: 0px 0px 0px 0px;
+
+    width: 100%;
+
+    height: auto;
+
+    display: block;
+
+}
+
+/* artistsLabel */
+
+.artistsPage_artistsLabel {
+
+    text-decoration: none;
+
+    font-weight: normal;
+
+    text-align: left;
+
+    font-family: Helvetica;
+
+    font-size: 16px;
+
+    margin: 10px 4px 0px 4px;
+
+    word-wrap: break-word;
+
+}
+
+/* mobilegroupedbuttons_13 */
+
+.ui-controlgroup.artistsPage_mobilegroupedbuttons_13 {
+
+    margin: 50px 5px 4px 5px;
+
+}
+
+.ui-controlgroup.artistsPage_mobilegroupedbuttons_13 .ui-btn {
+
+    margin: 0 -1px 0 0;
+
+}
+
+/* jadeButton */
+
+#artistsPage_jadeButton {
+
+}
+
+.ui-btn.artistsPage_jadeButton {
+
+}
+
+/* dwbButton */
+
+#artistsPage_dwbButton {
+
+}
+
+.ui-btn.artistsPage_dwbButton {
+
+}
+
+/* valannButton */
+
+#artistsPage_valannButton {
+
+}
+
+.ui-btn.artistsPage_valannButton {
+
+}
+
+/* exbritButton */
+
+#artistsPage_exbritButton {
+
+}
+
+.ui-btn.artistsPage_exbritButton {
+
+}
+
+/* mobilefooter1 */
+
+.artistsPage_mobilefooter1 {
+
+    min-height:38px;
+
+}
+
+/* mobilenavbar_3 */
+
+.artistsPage_mobilenavbar_3 {
+
+}
+
+.artistsPage_mobilenavbar_3 .ui-grid-a .ui-block-a {
+
+    clear:none;
+
+}
+
+.ui-footer .artistsPage_mobilenavbar_3 ul li:last-child a {
+
+    margin-right: 1px !important;
+
+}
+
+.ui-header .artistsPage_mobilenavbar_3 ul li:last-child a {
+
+    margin-right: -1px !important;
+
+}
+
+.artistsPage_mobilenavbar_3 ul.ui-grid-duo li:nth-child(even) a {
+
+    margin-right: 1px !important;
+
+}
+
+/* mobilenavbar_7 */
+
+.artistsPage_mobilenavbar_7 {
+
+}
+
+.artistsPage_mobilenavbar_7 .ui-grid-a .ui-block-a {
+
+    clear:none;
+
+}
+
+.ui-footer .artistsPage_mobilenavbar_7 ul li:last-child a {
+
+    margin-right: 1px !important;
+
+}
+
+.ui-header .artistsPage_mobilenavbar_7 ul li:last-child a {
+
+    margin-right: -1px !important;
+
+}
+
+.artistsPage_mobilenavbar_7 ul.ui-grid-duo li:nth-child(even) a {
+
+    margin-right: 1px !important;
+
+}
